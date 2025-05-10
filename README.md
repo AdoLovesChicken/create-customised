@@ -3,6 +3,10 @@ A Forge modpack focused on expanding Create mod.
 
 **_Create Customised_ is a forge modpack that focuses on improving, expanding, and customising base Create.**
 
+
+## Create!
+Create Customised comes jam-packed with multiple of Create's best addons!
+
 ## QOL
 From 3d Skin Layers to YUNG's Better Nether Fortresses, there is a plethora of vast QOL mods. These are all wisely picked and custom-tuned to create the optimum modpack experience.
 
