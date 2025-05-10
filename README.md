@@ -1,8 +1,5 @@
-# Create Customised
-A Forge modpack focused on expanding Create mod.
-
+# <font color="#C6ECAE">⚙️ Create Customised</font> by AdoLovesChicken
 **_Create Customised_ is a forge modpack that focuses on improving, expanding, and customising base Create.**
-
 
 ## Create!
 Create Customised comes jam-packed with multiple of Create's best addons!
