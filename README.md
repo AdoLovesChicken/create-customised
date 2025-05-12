@@ -16,7 +16,8 @@ The modpack even comes with the _Essential Mod_, so you can play with friends an
 ## Better than Optifine!
 The modpack comes with various mods that replace the custom Optifine format - you can run all the custom resource packs you want! It even comes with shaderpack support.
 
-![Modrinth Downloads](https://img.shields.io/modrinth/dt/fuj91Net) ![Modrinth Version](https://img.shields.io/modrinth/v/fuj91Net)
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/fuj91Net?color=%2384A98C) ![Modrinth Version](https://img.shields.io/modrinth/v/fuj91Net?color=%238FA6CB)
+
 ## 
 Create this, Create that... what actually is Create?
 
