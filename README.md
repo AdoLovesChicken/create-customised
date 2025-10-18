@@ -1,5 +1,7 @@
 # <font color="#C6ECAE">⚙️ Create Customised</font> by AdoLovesChicken
-**_Create Customised_ is a forge modpack that focuses on improving, expanding, and customising base Create.**
+**_Create Customised_ is a NeoForge modpack that focuses on improving, expanding, and customising base Create.**
+
+### !! Now with server files (found in files section on the version page) !!
 
 ## Create!
 Create Customised comes jam-packed with multiple of Create's best addons!
@@ -8,7 +10,7 @@ Create Customised comes jam-packed with multiple of Create's best addons!
 From 3d Skin Layers to YUNG's Better Nether Fortresses, there is a plethora of vast QOL mods. These are all wisely picked and custom-tuned to create the optimum modpack experience.
 
 ## Performance
-Create Customised houses a multitude of various optimisation mods available for Forge. It is fine-tuned to run at a _somewhat_ stable framerate.
+Create Customised houses a multitude of various optimisation mods available for NeoForge. It is fine-tuned to run at a _somewhat_ stable framerate.
 
 ## Multiplayer!
 The modpack even comes with the _Essential Mod_, so you can play with friends any time you'd like! You can also pin servers using _Cherished Worlds_ so you never lose your favourite server to the others in the list!
