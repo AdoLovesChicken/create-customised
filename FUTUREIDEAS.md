@@ -9,3 +9,5 @@
 - multiplayer pranks? (modrinth.com/mod/create-more-pipe-bombs-in-packages)
 - improved remote controls (modrinth.com/mod/create-more-linked-remote)
 - integrate meta logistics: modrinth.com/mod/create-meta-logistics
+- https://modrinth.com/mod/loadingscreentips
+- https://modrinth.com/mod/foolproof
