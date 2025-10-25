@@ -1,0 +1,11 @@
+- organise achievements and improve system (possibly rewards?)
+- create welcome screen (modrinth.com/mod/welcome-screen)
+- improve upon curios
+- resource pack system
+- make a pack trailer for YT
+- add train sound effects (speaker)
+- improve logistics, storage, and item transportation system(s) (modrinth.com/mod/create_factory_logistics) (modrinth.com/mod/create-more-package-couriers) (modrinth.com/mod/create-more-parallel-pipes) (modrinth.com/mod/create-compatible-storage) (modrinth.com/mod/storage-delight) (modrinth.com/mod/packagerspsic) (modrinth.com/mod/crate-delight)
+- multiplayer pause modrinth.com/mod/multiplayer-server-pause
+- multiplayer pranks? (modrinth.com/mod/create-more-pipe-bombs-in-packages)
+- improved remote controls (modrinth.com/mod/create-more-linked-remote)
+- integrate meta logistics: modrinth.com/mod/create-meta-logistics
