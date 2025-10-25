@@ -11,3 +11,5 @@
 - integrate meta logistics: modrinth.com/mod/create-meta-logistics
 - https://modrinth.com/mod/loadingscreentips
 - https://modrinth.com/mod/foolproof
+
+antique trains railways navigator aquatic amb | copper and zinc w molten vents | diamond n factory fishery indus hypertubes framed | manage connected | renewable neth trading hall synthetic pressure |check qol items| storage draws
