@@ -1,0 +1,13 @@
+name = "Biolith"
+filename = "biolith-neoforge-3.0.12.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/iGEl6Crx/versions/xaeaSA9Q/biolith-neoforge-3.0.12.jar"
+hash-format = "sha512"
+hash = "bc5afdc96e551e60313f7a0f94bdaece3a2e88a929e731cd6c518981d98b42391d74fec96d32487e8ad63b887ac2f2f7e4e380f2758f278bf40715fa6e3dfe99"
+
+[update]
+[update.modrinth]
+mod-id = "iGEl6Crx"
+version = "xaeaSA9Q"

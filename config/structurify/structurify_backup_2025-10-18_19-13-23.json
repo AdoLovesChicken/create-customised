@@ -1,0 +1,289 @@
+{
+  "config_version": "1.0.21",
+  "config_datetime": "2025-10-18_19-13-15",
+  "general": {
+    "min_structure_distance_from_world_center": 0,
+    "disable_all_structures": false,
+    "enable_global_spacing_and_separation_modifier": false,
+    "global_spacing_and_separation_modifier": 1.0
+  },
+  "structures": [
+    {
+      "name": "create_easy_structures:big_1",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 64,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 64,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river",
+        "#is_ocean",
+        "#is_beach"
+      ],
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "create_easy_structures:big_2",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 64,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 64,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river",
+        "#is_ocean",
+        "#is_beach"
+      ],
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "create_easy_structures:factory_1",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 64,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 64,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river",
+        "#is_ocean",
+        "#is_beach"
+      ],
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "create_easy_structures:factory_2",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 64,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 64,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river",
+        "#is_ocean",
+        "#is_beach"
+      ],
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "create_easy_structures:foresttracks",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 64,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 64,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river",
+        "#is_ocean",
+        "#is_beach"
+      ],
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "create_easy_structures:freight_station",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 100,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 100,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river",
+        "#is_ocean",
+        "#is_beach"
+      ],
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "create_easy_structures:house_2",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 64,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 64,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river",
+        "#is_ocean",
+        "#is_beach"
+      ],
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "create_easy_structures:house_3",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 64,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 64,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river",
+        "#is_ocean",
+        "#is_beach"
+      ],
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "create_easy_structures:house_4",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 64,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 64,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river",
+        "#is_ocean",
+        "#is_beach"
+      ],
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "create_easy_structures:undergroundtrain",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 70,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 70,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river",
+        "#is_ocean",
+        "#is_beach"
+      ],
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "create_easy_structures:windmill",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 64,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 64,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river",
+        "#is_ocean",
+        "#is_beach"
+      ],
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    }
+  ],
+  "structure_sets": [
+    {
+      "name": "create_easy_structures:big_1",
+      "salt": 878977526,
+      "frequency": 0.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 60,
+      "separation": 25
+    },
+    {
+      "name": "create_easy_structures:big_2",
+      "salt": 878785151,
+      "frequency": 0.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 60,
+      "separation": 25
+    },
+    {
+      "name": "create_easy_structures:factory_1",
+      "salt": 991993825,
+      "frequency": 0.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 60,
+      "separation": 25
+    },
+    {
+      "name": "create_easy_structures:factory_2",
+      "salt": 991801451,
+      "frequency": 0.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 60,
+      "separation": 25
+    },
+    {
+      "name": "create_easy_structures:foresttracks",
+      "salt": 1204635669,
+      "frequency": 0.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 60,
+      "separation": 25
+    },
+    {
+      "name": "create_easy_structures:freight_station",
+      "salt": 1354297359,
+      "frequency": 0.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 50,
+      "separation": 25
+    },
+    {
+      "name": "create_easy_structures:house_2",
+      "salt": 1601847478,
+      "frequency": 0.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 60,
+      "separation": 25
+    },
+    {
+      "name": "create_easy_structures:house_3",
+      "salt": 1600885606,
+      "frequency": 0.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 60,
+      "separation": 25
+    },
+    {
+      "name": "create_easy_structures:house_4",
+      "salt": 1600693231,
+      "frequency": 0.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 60,
+      "separation": 25
+    },
+    {
+      "name": "create_easy_structures:undergroundtrain",
+      "salt": 1719461658,
+      "frequency": 0.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 50,
+      "separation": 15
+    },
+    {
+      "name": "create_easy_structures:windmill",
+      "salt": 353987075,
+      "frequency": 0.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 60,
+      "separation": 15
+    }
+  ]
+}

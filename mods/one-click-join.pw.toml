@@ -1,0 +1,13 @@
+name = "One Click Join"
+filename = "one-click-join-1.21.1-neoforge-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gmVdcG6g/versions/UdZbSvZe/one-click-join-1.21.1-neoforge-1.1.0.jar"
+hash-format = "sha512"
+hash = "db34a31663c679ff6a43aa35c88f9c0a2a92bcee5867cc223651bdd9b1661882588935bb181b7b5846fe9648c2d250c2d31dde3b36418c2aeb6474c39ffc0252"
+
+[update]
+[update.modrinth]
+mod-id = "gmVdcG6g"
+version = "UdZbSvZe"

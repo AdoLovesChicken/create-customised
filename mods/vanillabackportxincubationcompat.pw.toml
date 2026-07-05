@@ -1,0 +1,13 @@
+name = "Vanilla Backport X Incubation Compat"
+filename = "vbincubationcompat-1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lNGTX5Va/versions/P6O0gEMr/vbincubationcompat-1.4.jar"
+hash-format = "sha512"
+hash = "56d15f777282fae2837915c0fb6851f97e7f4cf05fbfa5b5864463cc25dec2535f32d3891a257f36d826d01adc1d9e81646670ead9f6bba5493ca9cdc08a420b"
+
+[update]
+[update.modrinth]
+mod-id = "lNGTX5Va"
+version = "P6O0gEMr"

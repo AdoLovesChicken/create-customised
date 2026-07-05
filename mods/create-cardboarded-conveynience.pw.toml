@@ -1,0 +1,13 @@
+name = "Create: Cardboarded Conveynience"
+filename = "create-cardboarded-conveynience-1.21.1-neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dWU6xUnj/versions/DkktDPvc/create-cardboarded-conveynience-1.21.1-neoforge-1.0.0.jar"
+hash-format = "sha512"
+hash = "09e7c9f07032259a019d01102a9fbec95b9361c17748ea2468c67bf03d72714332fcecf2023350e51723e2461962a6a2a128875bfcaae1887d8c8bf13aecaa22"
+
+[update]
+[update.modrinth]
+mod-id = "dWU6xUnj"
+version = "DkktDPvc"

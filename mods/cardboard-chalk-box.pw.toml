@@ -1,0 +1,13 @@
+name = "Cardboard Chalk Box"
+filename = "cardboardchalkbox-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WxALA5o1/versions/6bHrL7PY/cardboardchalkbox-1.0.0.jar"
+hash-format = "sha512"
+hash = "4ea2a981b63088468f7bf68783dc32004ebcf2b715c8d8dd5ccdb8647641f4f72e35dcd2cc485fa95b469bbe52a80c667290be6f6ec2406e468366f5c07bc13c"
+
+[update]
+[update.modrinth]
+mod-id = "WxALA5o1"
+version = "6bHrL7PY"

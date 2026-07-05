@@ -1,0 +1,28 @@
+#Top speed while accelerating with crouch.
+# Default: 0.75
+# Range: 0.1 ~ 1.0
+topGrindSpeed = 0.75
+#Cruising speed without accelerating with crouch.
+# Default: 0.75
+# Range: 0.1 ~ 2.0
+cruiseGrindSpeed = 0.75
+#Acceleration multiplier going down inclines.
+# Default: 0.5
+# Range: 0.1 ~ 2.0
+downwardMomentumGain = 0.5
+#How far you'll leap based on how long you charge your jump. Scales both horizontal and vertical charge bonus.
+# Default: 0.5
+# Range: 0.1 ~ 1.0
+railJumpCharge = 0.5
+#How far you'll leap based speed. Scales both horizontal and vertical speed-based launch.
+# Default: 0.5
+# Range: 0.1 ~ 1.0
+railJumpMomentum = 0.5
+#Automatically engage Elytra flight when jumping off a Rail Grind with any Elytra equipped.
+autoDeployElytra = true
+#DO NOT ENABLE UNLESS DEBUG TESTING. Broadcasts Rail Grind debug values for players using debug mode.
+syncDebugToClients = false
+#Acceleration while crouching. Multiplier applied to base acceleration when shift is held.
+# Default: 1.0
+# Range: 0.1 ~ 2.0
+crouchAcceleration = 1.0

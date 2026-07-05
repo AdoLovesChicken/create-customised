@@ -1,0 +1,13 @@
+name = "Entombed"
+filename = "entombed+neo-2.2.0-dev.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b3lWYZUQ/versions/8LLj5MOI/entombed%2Bneo-2.2.0-dev.jar"
+hash-format = "sha512"
+hash = "06fa696b9819576caf817fc887d0a0b398a7ed525a59a10c88aec7ce93c8a0a1c88780685c041f9a4902edaf8e486eda8e245df12cd0f01723dfe078094753bc"
+
+[update]
+[update.modrinth]
+mod-id = "b3lWYZUQ"
+version = "8LLj5MOI"

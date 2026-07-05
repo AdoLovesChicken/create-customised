@@ -1,0 +1,19 @@
+{
+  "usedYACL": true,
+  "tombsHaveCollision": true,
+  "requireOpForRetrieve": true,
+  "tombsCanBeBrokenDirectly": false,
+  "tombsCanBeBrokenIndirectly": false,
+  "tombsCanPlaceInLiquid": true,
+  "itemsOnDeath": "TOMBED",
+  "mainInvOnDeath": "DEFAULT",
+  "hotbarOnDeath": "DEFAULT",
+  "armorOnDeath": "DEFAULT",
+  "experienceOnDeath": "PARTIAL",
+  "itemPercentKept": 100,
+  "mainInvPercentKept": 100,
+  "hotbarPercentKept": 100,
+  "armorPercentKept": 100,
+  "experiencePercentKept": 100,
+  "tombsFloatInLiquid": true
+}

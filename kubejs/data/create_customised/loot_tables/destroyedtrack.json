@@ -1,0 +1,9 @@
+{
+  "type": "create:pressing",
+  "ingredients": [{ "item": "create:track" }],
+  "results": [
+    { "item": "create_easy_structures:destroyedtrack_1", "amount": 1, "chance": 0.3333 },
+    { "item": "create_easy_structures:destroyedtrack_2", "amount": 1, "chance": 0.3333 },
+    { "item": "create_easy_structures:destroyedtrack_3", "amount": 1, "chance": 0.3334 }
+  ]
+}

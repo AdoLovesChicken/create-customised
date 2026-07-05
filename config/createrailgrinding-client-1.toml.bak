@@ -1,0 +1,10 @@
+#DO NOT ENABLE UNLESS DEBUG TESTING. Used for testing. Displays many values while rail-grinding.
+debugMode = false
+#Volume for all rail-grinding sounds.
+# Default: 0.5
+# Range: 0.0 ~ 1.0
+soundVolume = 0.5
+#Overrides rail-grinding actions with alternative keybindings under Key Binds within Controls in Settings.
+overrideKeybindings = false
+#Camera Roll when rail-grinding. May cause motion sickness.
+cameraRollOnLean = false

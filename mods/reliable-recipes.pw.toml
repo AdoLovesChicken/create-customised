@@ -1,0 +1,13 @@
+name = "Reliable Recipes"
+filename = "reliable_recipes-neoforge-1.21.1-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Hl4ARA1z/versions/9dTGZtVB/reliable_recipes-neoforge-1.21.1-2.1.1.jar"
+hash-format = "sha512"
+hash = "144db9b4459d0ed1a0d5102c07ac925eff35f981c41290ba179027730e7e65af30989822d4f3e4b2d51c1e7030d36c631e5b93110dc98c48dad29949847d1c6b"
+
+[update]
+[update.modrinth]
+mod-id = "Hl4ARA1z"
+version = "9dTGZtVB"
