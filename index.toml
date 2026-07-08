@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "FUTUREIDEAS.md"
+hash = "7f504380cd2c5d0069cae7465f996db22994127f0e6300616d2d9ce59bdf0284"
+
+[[files]]
+file = "LICENSE"
+hash = "7b64cc516f24f0e28b4bdc54ebf0b3a85887b1f3d00fe922dd0b039d5535db3d"
+
+[[files]]
+file = "README.md"
+hash = "1544bd344f38d6f23d864003786b3f907100afdf2f41dfe35dbf8ee27ec6fa97"
+
+[[files]]
+file = "changelogs/0.8.0b.md"
+hash = "9137659317420b0e1969b5bcd73cacba27c572129d4faf425f8fbe9caf33f919"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "581885185415ef22e3eb799e497f08f0f861d22b96cb7d11de95b0efeed6eca9"
 
@@ -1622,7 +1638,7 @@ hash = "6aba17f6adc3b65aafdbc068aae6fae8232c15488769c0af139f2fe8181a1f25"
 
 [[files]]
 file = "kubejs/server_scripts/recipeConflictPatch.js"
-hash = "622b8fa3af970d75807b344290fa2c35af2788999f3ea4be771f2e53cea35c86"
+hash = "6e8e98f3a2e4d26daacd062a46b41bb8bb450bd3e64875f41e8eaee1688642cd"
 
 [[files]]
 file = "kubejs/server_scripts/tungstenIntegrationRecipes.js"
@@ -1631,10 +1647,6 @@ hash = "e6d12893f48c68e84843e537fbf9d6ca9bc01f00215eea58eeffd0dbba6c628e"
 [[files]]
 file = "kubejs/startup_scripts/main.js"
 hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
-
-[[files]]
-file = "migrate.ps1"
-hash = "92f5e0c855d46868aa3e0cf47eaaa659d01579bcb4b54f627508df705732f7dd"
 
 [[files]]
 file = "mods/aa4-atlas.pw.toml"

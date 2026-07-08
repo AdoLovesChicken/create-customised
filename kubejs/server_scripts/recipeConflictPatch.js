@@ -12,4 +12,6 @@ ServerEvents.recipes(event => {
     )
     
     /* Adding Recipes */
+    event.add('#c:foods/milk', 'minecraft:milk_bucket')
+    event.add('#c:foods/milk', 'farmersdelight_milk_bottle')
 })
