@@ -1,0 +1,13 @@
+name = "Netherracked"
+filename = "netherracked-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vNFbVrF1/versions/UI2l4FTm/netherracked-1.0.4.jar"
+hash-format = "sha512"
+hash = "80f274749ee9f24b8d74b157be9a6b99cf8e76ba6bde577b34197616b78de640c0b92f95f5f10e8efaa1f3f98861c9e4262f834f2af5f0d867d3eb1802d2c616"
+
+[update]
+[update.modrinth]
+mod-id = "vNFbVrF1"
+version = "UI2l4FTm"

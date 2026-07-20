@@ -1,0 +1,18 @@
+#Disables specific entries
+[entries]
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+		[entries.wood_type.create]
+			window_pane = true
+			window = true
+
+#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
+[types]
+
+		[types.wood_type.vanillabackport]
+			pale_oak = true
+
+		[types.leaves_type.vanillabackport]
+			pale_oak = true

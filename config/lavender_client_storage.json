@@ -1,0 +1,27 @@
+{
+  "bookmarks": {},
+  "opened_books": {
+    "421a3cfd-ac4d-4808-90ef-61ff8bf76694": [
+      "knowlogy:knowlogy_book"
+    ],
+    "b7c158ca-d61c-4065-b297-83d6893cd743": [
+      "knowlogy:knowlogy_book"
+    ]
+  },
+  "viewed_entries": {
+    "421a3cfd-ac4d-4808-90ef-61ff8bf76694": {
+      "knowlogy:knowlogy_book": [
+        "minecraft:crafting_table",
+        "minecraft:amethyst_block"
+      ]
+    },
+    "b7c158ca-d61c-4065-b297-83d6893cd743": {
+      "knowlogy:knowlogy_book": [
+        "exposure:lightroom",
+        "exposure:camera",
+        "exposure:developed_film",
+        "exposure:photograph"
+      ]
+    }
+  }
+}

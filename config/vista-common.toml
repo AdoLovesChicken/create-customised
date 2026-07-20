@@ -1,0 +1,37 @@
+[general]
+	#Maximum size of connected TVs (in blocks). Set to 1 to disable multi-block TVs.
+	# Default: 8
+	# Range: 1 ~ 24
+	max_connected_tv_size = 8
+	#Whether creepers should drop tapes when killed by the pillagers.
+	creeper_drop = true
+	#Whether loot chests could contain cassette tapes.
+	chest_drop = true
+	#Where the wave gate is obtainable.
+	#Allowed Values: CRAFTABLE, CREATIVE_ONLY, OFF
+	wave_gate_enabled = "CREATIVE_ONLY"
+	#Radius (in chunks) of the extra chunk zone sent to clients for each far-away view finder linked to a nearby TV. Set to 0 to disable client chunk sending.
+	# Default: 4
+	# Range: 0 ~ 16
+	send_chunks_viewed_by_view_finders = 4
+	#Server loads chunks that are near a far away view finder linked to a tv that's close to at least 1 player. Will increase server strain
+	chunkload_chunks_viewed_by_view_finders = false
+	#Whether TVs should consume Forge energy (NeoForge only).
+	tv_consume_energy = false
+	#Energy consumption rate per tick when TV is powered and has a cassette.
+	# Default: 20
+	# Range: 1 ~ 10000
+	tv_energy_consumption_rate = 20
+	#Makes connected tvs just have a square aspect ratio. If you set to false cassettes will be stretched and will look worse as a result
+	tv_square_aspect_ratio = true
+	#Maximum size of connected mirrors (in blocks). Set to 1 to disable multi-block mirrors.
+	# Default: 8
+	# Range: 1 ~ 24
+	max_connected_mirror_size = 8
+	#Forces connected mirrors to have a square aspect ratio.
+	mirror_square_aspect_ratio = true
+	#Which mirror placements are allowed. NEAR: surface always flush with the front face. FAR: surface always recessed into the block. BOTH: near or far is chosen from where you click along the block's depth axis (near half = near, far half = recessed).
+	#Allowed Values: NEAR, FAR, BOTH
+	mirror_placement = "BOTH"
+	#Whether mirrors (and the crystalline item used to craft them) are enabled. Disabling hides them from creative tabs, disables the mirror recipe, and stops crystalline from dropping from elder guardians.
+	mirror_enabled = true

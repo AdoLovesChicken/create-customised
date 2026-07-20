@@ -1,0 +1,8 @@
+[config]
+	# Default: 0.8
+	# Range: 0.0 ~ 10.0
+	scale = 0.8
+	# Default: 1
+	# Range: 1 ~ 8
+	position = 1
+	blacklist = ["jei_skp"]

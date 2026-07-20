@@ -1,0 +1,7 @@
+{
+  "voice_message_spam_punishment": "none",
+  "mod_required": false,
+  "mod_not_installed_text": "VoiceMessages is not installed or is of an old version",
+  "max_voice_message_duration_ms": 90000,
+  "voice_message_invalid_punishment": "prevent"
+}

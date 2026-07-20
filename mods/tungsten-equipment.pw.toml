@@ -1,0 +1,13 @@
+name = "Tungsten Equipment"
+filename = "Tungsten_Equipment-1.3.3-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mVqSwavE/versions/m81BxvjY/Tungsten_Equipment-1.3.3-Fabric.jar"
+hash-format = "sha512"
+hash = "a7daf7b6a5dc4741ea6fa88cc457db69ac33a3e3a4a968e920aa19c3be68df7e3731b4399508ec7ed4f02aa730055e4ca2a9c9f578e9a31fb2f2c3a139e2bc2c"
+
+[update]
+[update.modrinth]
+mod-id = "mVqSwavE"
+version = "m81BxvjY"

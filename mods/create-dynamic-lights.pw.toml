@@ -1,0 +1,13 @@
+name = "Create: Dynamic Lights"
+filename = "create-dyn-light-forge-1.21.1-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/evMQRxqV/versions/ltFc9AWJ/create-dyn-light-forge-1.21.1-2.0.1.jar"
+hash-format = "sha512"
+hash = "253b04afbfdf4863b1f4bcafa0cf5ba806c82faf81497e6b69833d4f4edefda5f32f10a8bc3f70e6ea5e46fd69c545ec26d321cbda8077846cfaeae584d2ded1"
+
+[update]
+[update.modrinth]
+mod-id = "evMQRxqV"
+version = "ltFc9AWJ"

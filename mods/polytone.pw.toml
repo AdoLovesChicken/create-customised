@@ -1,0 +1,13 @@
+name = "Polytone"
+filename = "polytone-neoforge-1.21-3.8.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3qAYkBMB/versions/CHkPsrtl/polytone-neoforge-1.21-3.8.8.jar"
+hash-format = "sha512"
+hash = "4b4f9a419a598096c0a1eb68b05b833014cd675d332fbb4d3d03ad87a64344a5b58651db6383cb2e0174b43e496289ec91c730ffca3a5c4efa2f82bc69fde241"
+
+[update]
+[update.modrinth]
+mod-id = "3qAYkBMB"
+version = "CHkPsrtl"

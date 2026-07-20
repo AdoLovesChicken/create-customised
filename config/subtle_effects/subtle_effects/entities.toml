@@ -1,0 +1,126 @@
+# Don't change this! Version used to track needed updates.
+version = 0
+attackedChickenFeathers = false
+attackedParrotFeathers = true
+attackedSnowGolemSnowflakes = true
+attackedSheepFluff = true
+attackedSlimeSlime = true
+allayMagicDensity = 0.2
+vexMagicDensity = 0.2
+sheepShearFluff = true
+improvedDragonFireballTrail = true
+dragonsBreathClouds = true
+commandBlockMinecartParticles = "ON"
+endCrystalParticles = true
+minecartSparksDisplayType = "DEFAULT"
+minecartSparksDensity = 0.5
+slimeTrails = true
+magmaCubeTrails = true
+replaceSlimeSquishParticles = true
+replaceOozingEffectParticles = true
+replaceSpellCasterParticles = true
+ironGolemCrackParticles = true
+spectralArrowParticles = true
+wardenDeathSoulParticles = true
+freezingSnowFlakes = true
+featherTicklingPandas = true
+improvedPandaSneezes = true
+villagerWorkAtWorkstationParticles = true
+improvedBrownMooshroomFeedingEffects = true
+improvedMooshroomShearingEffects = true
+replaceBlazeSmoke = true
+animalFeedingParticles = true
+animalFeedingSoundVolume = 1.0
+underwaterEntityPoofBubbles = true
+improvedWetWolfShakeEffects = true
+improvedVillagerSweatingEffects = true
+magmaCubeLandSparks = true
+snowGolemStepSounds = true
+
+[sleeping]
+playerSnoreChance = 0.0
+playerSnoreSoundVolume = 0.0
+playersHaveSleepingZs = false
+villagerSnoreChance = 0.0
+villagerSnoreSoundVolume = 0.0
+villagersHaveSleepingZs = false
+foxesHaveSleepingZs = false
+batsHaveSleepingZs = false
+catsHaveSleepingZs = false
+otherMobsHaveSleepingZs = false
+displaySleepingZsOnlyWhenSnoring = false
+adjustNameTagWhenSleeping = false
+
+[humanoids]
+drowningBubblesDisplayType = "DEFAULT"
+drowningBubblesDensity = 3
+drowningBubbleAlpha = 1.0
+forceDrowningBubblesToColumn = false
+potionRingsDisplayType = "DEFAULT"
+potionRingsParticleType = "BOTH"
+potionRingsScale = 1.0
+potionRingsAlpha = 1.0
+NPCsHavePotionRings = true
+
+[humanoids.frostyBreath]
+displayType = "OFF"
+alpha = 0.5
+waitTime = 60
+seasons = "DEFAULT"
+additionalBiomes = [  ]
+
+[humanoids.player]
+enableBreathingEffectsInCreative = true
+stomachGrowlingThreshold = 6
+stomachGrowlingVolume = 0.0
+stomachGrowlingWaitTime = 15
+heartBeatingThreshold = 6
+heartbeatVolume = 1.0
+heartBeatingWaitTime = 3
+
+[dustClouds]
+scale = 0.9191176
+alpha = 0.4887255
+preventWhenRaining = false
+flyIntoWall = true
+lessViewBlocking = false
+playerFell = true
+mobFell = true
+landMaceAttack = true
+playerRunning = false
+mobRunning = false
+playerRunningRequiresSpeed = true
+
+[burning]
+smokeType = "DEFAULT"
+smokeDensity = 1.0
+flamesDensity = 1.0
+sparksDensity = 1.0
+soundVolume = 0.3
+entityBlocklist = [
+    "minecraft:lightning_bolt"
+]
+overrideDyedFlamesEffects = true
+extinguishSteam = true
+
+[explosives]
+tntUpdateSmoke = true
+tntFlamesDensity = 1
+tntSparks = true
+creeperSmoke = "UPDATED"
+creeperSparks = true
+
+[splashes]
+splashEffects = false
+splashRipples = true
+splashDroplets = true
+splashDropletSounds = true
+waterSplashBubbles = true
+explosionsCauseSplashes = true
+splashOverlayTint = 0.2
+splashOverlayAlpha = 0.8
+splashVelocityThreshold = 0.35
+entityBlocklist = [  ]
+secondarySplash = true
+secondarySplashRipples = true
+secondarySplashVelocityThreshold = 0.3

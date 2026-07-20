@@ -1,0 +1,13 @@
+name = "Create: SpawnerBoxer"
+filename = "CreateSpawnerBoxer-0.1.1+forge-1.21.1-18.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MutgVePM/versions/Sh8W9EM9/CreateSpawnerBoxer-0.1.1%2Bforge-1.21.1-18.jar"
+hash-format = "sha512"
+hash = "0b24ff7f24da9480bfc9cc363515069ac7f02ea13b293d12b8ae899da177aeaf6dca0d9e88f5554f8d78cf155ecb5e304dca100ec9969f45aa6ea9379a95f73e"
+
+[update]
+[update.modrinth]
+mod-id = "MutgVePM"
+version = "Sh8W9EM9"

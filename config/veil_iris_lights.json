@@ -1,0 +1,12 @@
+{
+  "quality": "HIGH",
+  "pointLightLimit": 96,
+  "areaLightLimit": 32,
+  "detailedNormals": true,
+  "voxelShadows": true,
+  "exposure": 0.24,
+  "colorStrength": 2.45,
+  "colorSaturation": 1.15,
+  "neutralLift": 0.28,
+  "luminanceBoostLimit": 1.6
+}

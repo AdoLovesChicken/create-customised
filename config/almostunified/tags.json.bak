@@ -1,0 +1,18 @@
+{
+  "custom_tags": {
+    "c:doughs": [
+      "farmersdelight:wheat_dough",
+      "create:dough"
+    ]
+  },
+  "tag_substitutions": {},
+  "item_tag_inheritance_mode": "ALLOW",
+  "item_tag_inheritance": {
+    "TagKey[minecraft:item / c:doughs]": [
+      "c:foods/dough"
+    ]
+  },
+  "block_tag_inheritance_mode": "ALLOW",
+  "block_tag_inheritance": {},
+  "emi_strict_hiding": true
+}
