@@ -1,0 +1,23 @@
+{
+  "name": "Prism",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "1OE8wbN0",
+      "slug": "prism-lib",
+      "versionId": "kMcz2lDj",
+      "versionNumber": "1.0.11",
+      "filename": "Prism-1.21.1-neoforge-1.0.11.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/1OE8wbN0/versions/kMcz2lDj/Prism-1.21.1-neoforge-1.0.11.jar",
+      "sha1": "1ae6f7be2ba8f963344dbf27e552920a7bc7a35f",
+      "sha512": "b3539b5dba6414b5f6db126dd703a0923984c1fa11a53e50090eb1b03ec3ef3a09fc048ae2d03b8241e4d182ec4e942cc905d0f3e7366608fd8a0bb2509f55f4",
+      "fileSize": 62031
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

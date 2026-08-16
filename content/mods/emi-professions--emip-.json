@@ -1,0 +1,23 @@
+{
+  "name": "EMI professions (EMIP)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "LGVihYcz",
+      "slug": "emi-professions-(emip)",
+      "versionId": "wGOa5uxT",
+      "versionNumber": "1.0.3",
+      "filename": "EMIProfessions-neoforge-1.21.1-1.0.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/LGVihYcz/versions/wGOa5uxT/EMIProfessions-neoforge-1.21.1-1.0.3.jar",
+      "sha1": "db869b08e5d86188a259b2dfeeece6f94ea17630",
+      "sha512": "f720f58590e3098459c27e3579f36a00b66443b7c089e3fa9ef1399ed17587d51b046c69e2f07f6e21089fc85d58881a5b224d94a1b2f4738a0c6cbb2dd9c798",
+      "fileSize": 23543
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "EMI Enchanting",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "wbWoo11W",
+      "slug": "emi-enchanting",
+      "versionId": "ZyJ6TKvh",
+      "versionNumber": "0.1.2+1.21+neoforge",
+      "filename": "emi_enchanting-0.1.2+1.21+neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/wbWoo11W/versions/ZyJ6TKvh/emi_enchanting-0.1.2%2B1.21%2Bneoforge.jar",
+      "sha1": "02ad74769ffcec259fd9bb14a1760593f6182b5c",
+      "sha512": "90944c8ff897fa98d0323fe94e4053fb89f43cbaf4fd28d6ad58134cea1469c9398e0c0edd4328a5530e1578ad2286ec5822292bf9c587182e5606dbfff218be",
+      "fileSize": 15680
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Cloth Config API",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "9s6osm5g",
+      "slug": "cloth-config",
+      "versionId": "izKINKFg",
+      "versionNumber": "15.0.140+neoforge",
+      "filename": "cloth-config-15.0.140-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
+      "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
+      "sha512": "aaf9b010955b8cd294e5a92f069985b18729fd5e2cf22d351f1dff9680f15488688803ec41e77e941cbde130ceb535014ca4c868047d80ab69c2d508e216654d",
+      "fileSize": 1163890
+    }
+  },
+  "dependents": [
+    "51shyZVL",
+    "bnO15g6H"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Controlling",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "xv94TkTM",
+      "slug": "controlling",
+      "versionId": "FaNppCJJ",
+      "versionNumber": "19.0.5",
+      "filename": "Controlling-neoforge-1.21.1-19.0.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/xv94TkTM/versions/FaNppCJJ/Controlling-neoforge-1.21.1-19.0.5.jar",
+      "sha1": "8a34424fc1428778be2fdbfa4da67b21b70bcbfe",
+      "sha512": "bd01b2a38a869ea38e5f2a8fcd601e67ea9b132b9883c6ae752bc35dff6e94f6d47b965e31c1ee5c2f6a1221653549680da779fcb5319d199aec261d221d179e",
+      "fileSize": 77555
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

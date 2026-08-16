@@ -1,0 +1,23 @@
+{
+  "name": "Create: Vibrant Vaults",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "hddN8ksR",
+      "slug": "create-vibrant-vaults",
+      "versionId": "t17qYXjn",
+      "versionNumber": "0.3.2",
+      "filename": "create_vibrant_vaults-0.3.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/hddN8ksR/versions/t17qYXjn/create_vibrant_vaults-0.3.2.jar",
+      "sha1": "d0dbdde6318c4dd4ede1d2c091f1a64896ba872a",
+      "sha512": "3bd53097482e614dc4e5e635778af25020fa27c1c453d4928d1d8baa6767c93cb300810a5ac0c49af86813749a180e3f092ab2e65b07e7741c2b12aaebd47006",
+      "fileSize": 2687938
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

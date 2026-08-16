@@ -1,0 +1,16 @@
+{
+    id: "createCustomised",
+    version: 13,
+    capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+        theme: {
+            type: "enum",
+            default: "Minecraft",
+            values: [
+                "Minecraft",
+                "Create Style Interfaces",
+                "Dark"
+            ]
+        }
+    }
+}

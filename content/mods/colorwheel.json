@@ -1,0 +1,23 @@
+{
+  "name": "Colorwheel",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "BzHgFoGz",
+      "slug": "colorwheel",
+      "versionId": "Uhs2KYar",
+      "versionNumber": "1.2.9+mc1.21.1",
+      "filename": "colorwheel-neoforge-1.2.9+mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/BzHgFoGz/versions/Uhs2KYar/colorwheel-neoforge-1.2.9%2Bmc1.21.1.jar",
+      "sha1": "33f3f4976755d0b315d3853f2e2aad38e11825c2",
+      "sha512": "d2473439fdb26ff6a217808beea389f81e4cb387a9d7fde084660c432e70b8689d960c8e269820932632e6cefb7c11c1e24de758dceee723d93a83035927ccdc",
+      "fileSize": 398004
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

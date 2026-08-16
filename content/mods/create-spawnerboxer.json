@@ -1,0 +1,23 @@
+{
+  "name": "Create: SpawnerBoxer",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "MutgVePM",
+      "slug": "create-spawnerboxer",
+      "versionId": "Sh8W9EM9",
+      "versionNumber": "0.1.1+forge-1.21.1-18",
+      "filename": "CreateSpawnerBoxer-0.1.1+forge-1.21.1-18.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/MutgVePM/versions/Sh8W9EM9/CreateSpawnerBoxer-0.1.1%2Bforge-1.21.1-18.jar",
+      "sha1": "10c9de7c47cf130fc6c5b4a1e4efe135e4d8f635",
+      "sha512": "0b24ff7f24da9480bfc9cc363515069ac7f02ea13b293d12b8ae899da177aeaf6dca0d9e88f5554f8d78cf155ecb5e304dca100ec9969f45aa6ea9379a95f73e",
+      "fileSize": 102396
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

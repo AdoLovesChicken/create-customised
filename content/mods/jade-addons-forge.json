@@ -1,0 +1,23 @@
+{
+  "name": "Jade Addons (Neo/Forge)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "xuDOzCLy",
+      "slug": "jade-addons-forge",
+      "versionId": "Z9s9lM56",
+      "versionNumber": "6.1.0+neoforge",
+      "filename": "JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/xuDOzCLy/versions/Z9s9lM56/JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+      "sha1": "d0aef07e67f9e2dd7ae68f9f27d845511d8eaff3",
+      "sha512": "dcf1135718e74c55d4b01116c9955b88a8c8a5180e61dc51d292479aff3d2fff38c8ca0f1b4a6e42e54644f1c8907846a61799491df455b71541aa342d8b8896",
+      "fileSize": 74419
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

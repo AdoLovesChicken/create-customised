@@ -1,0 +1,1 @@
+{"sound_definitions":{"confetti_cannon":{"category":"neutral","max_distance":32.0,"sounds":[{"name":"sounds/confetti_cannon1","interruptible":true},{"name":"sounds/confetti_cannon2","interruptible":true},{"name":"sounds/confetti_cannon3","interruptible":true}]}}}

@@ -1,0 +1,23 @@
+{
+  "name": "Load Support",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "bnO15g6H",
+      "slug": "loadsupport",
+      "versionId": "pvzDBir7",
+      "versionNumber": "1.2.1",
+      "filename": "loadsupport-neoforge-1.21.1-1.2.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/bnO15g6H/versions/pvzDBir7/loadsupport-neoforge-1.21.1-1.2.1.jar",
+      "sha1": "3e9cb22d716452c8c1f67ddd338db9372ac2d715",
+      "sha512": "4b430ba2844b8a746471221ec5168df0060e449921d77261afc8332870b0dae00fdb552334c794568f9dec7cf809226a7a9b0b936f086b2477892af8c0fa526b",
+      "fileSize": 23770
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

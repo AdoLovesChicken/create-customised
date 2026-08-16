@@ -1,0 +1,15 @@
+# Normalize line endings
+* text=auto eol=lf
+
+# Binaries
+*.jar binary
+*.zip binary
+*.mrpack binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.ogg binary
+*.nbt binary
+*.dat binary

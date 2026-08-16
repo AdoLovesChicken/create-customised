@@ -1,0 +1,23 @@
+{
+  "name": "Jade Sable Compat",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "jCrJ4iGH",
+      "slug": "jade-sable-compat",
+      "versionId": "7HFg7hFp",
+      "versionNumber": "1.2.1",
+      "filename": "sablejade-1.2.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/jCrJ4iGH/versions/7HFg7hFp/sablejade-1.2.1.jar",
+      "sha1": "c85373671363d2396914de321e0a9afb4429fb68",
+      "sha512": "22eac9e6fc352d566b096c3878c649d795c97bdec4a02e4960687d56c6c8dc425a1dab9b03ed47ecfe7ae4fcdabecdbde0a6f23b1c9b83c52221852bbd9deac5",
+      "fileSize": 299390
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

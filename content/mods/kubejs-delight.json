@@ -1,0 +1,23 @@
+{
+  "name": "KubeJS Delight",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "apt5xJoR",
+      "slug": "kubejs-delight",
+      "versionId": "YM06FtFG",
+      "versionNumber": "1.21.1-1.1.6",
+      "filename": "kubejsdelight-1.1.6.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/apt5xJoR/versions/YM06FtFG/kubejsdelight-1.1.6.jar",
+      "sha1": "66a5de83677d38828242ab3dc96bf1b6f2771198",
+      "sha512": "6e3e8d2e9b4f95cca2fd9cd068b560d9650262802ffa0cc857342a8535ecb1ab6c7e718c0b73fa15f4663a98fc9d8849d7c0a1a2e6f0f406d76ca351589ae678",
+      "fileSize": 20406
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

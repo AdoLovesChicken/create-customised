@@ -1,0 +1,23 @@
+{
+  "name": "MidnightLib",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "codAaoxh",
+      "slug": "midnightlib",
+      "versionId": "6Gv5jvTB",
+      "versionNumber": "1.9.3+1.21.1-neoforge",
+      "filename": "midnightlib-neoforge-1.9.3+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/codAaoxh/versions/6Gv5jvTB/midnightlib-neoforge-1.9.3%2B1.21.1.jar",
+      "sha1": "e0c9a1ffc6a53435029a23d9c110c44620595469",
+      "sha512": "5913e7e8ebbffb72323514aa5bedce19056884416d0a33b38af1761ee74cfa600996cde9bd7d709ee2158476faa2e735b2e6ea6107296d471d2c5b7b35d9da6c",
+      "fileSize": 61217
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

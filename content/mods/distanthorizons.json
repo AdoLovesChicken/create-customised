@@ -1,0 +1,23 @@
+{
+  "name": "Distant Horizons",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "uCdwusMi",
+      "slug": "distanthorizons",
+      "versionId": "ZpKb4kZp",
+      "versionNumber": "3.2.0-b-1.21.1",
+      "filename": "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/uCdwusMi/versions/ZpKb4kZp/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+      "sha1": "df25e8cfe06917963778723a1d9a60610dd21bec",
+      "sha512": "d4199f92f992fbd2c75a3b0e4e81c8a98bee889013f7347f2149ffa62c86748bde22135e9b2c82a10875db94fa576571c661c5ee16d2f567bd8a93d6f255fd22",
+      "fileSize": 30207268
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

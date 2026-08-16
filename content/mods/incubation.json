@@ -1,0 +1,25 @@
+{
+  "name": "Incubation",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "A4Xrv60A",
+      "slug": "incubation",
+      "versionId": "4iwA7bGH",
+      "versionNumber": "5.0.2",
+      "filename": "incubation-1.21.1-5.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/A4Xrv60A/versions/4iwA7bGH/incubation-1.21.1-5.0.2.jar",
+      "sha1": "4d4adc77a6403831a27da10e97d1e283faef6870",
+      "sha512": "0074a8895768239a9552806df6f97c471d2de66d2a8d1d1ea90aba3c9cabd003d5e277384b1a69c8e586b1b6d0b3fefa9aff54f300e4d2031f569c6121e49524",
+      "fileSize": 485596
+    }
+  },
+  "dependents": [
+    "lNGTX5Va"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Entombed",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "b3lWYZUQ",
+      "slug": "entombed",
+      "versionId": "SW0Rxcey",
+      "versionNumber": "2.2.3",
+      "filename": "entombed+neo-2.2.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/b3lWYZUQ/versions/SW0Rxcey/entombed%2Bneo-2.2.3.jar",
+      "sha1": "c5890a2fc34c115b80bb347d121e1695e0b7d0ae",
+      "sha512": "9b2d1df67ab96419908b74ea560a862e7cce454f30d655c6f1583ae287311f63b76d0411e5e398f709999fb599befb756a1f17e264660866bbf269ff5591ef5c",
+      "fileSize": 2807635
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

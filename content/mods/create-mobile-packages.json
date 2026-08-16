@@ -1,0 +1,23 @@
+{
+  "name": "Create: Mobile Packages",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "1vXRfEHZ",
+      "slug": "create-mobile-packages",
+      "versionId": "DFi1qAly",
+      "versionNumber": "1.21.1-0.7.7",
+      "filename": "create_mobile_packages-1.21.1-0.7.7.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/1vXRfEHZ/versions/DFi1qAly/create_mobile_packages-1.21.1-0.7.7.jar",
+      "sha1": "b0eb4d3ae9641c06754b20b9621f23bd607373a8",
+      "sha512": "10be7be0fea95e635993dedf7467f3a257cf6887ad19060d99a1a2a092471bf7202099f326f09abf1a3aaec526cd8d51329cea5401fe2c780c775bddbdaf1b99",
+      "fileSize": 605614
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

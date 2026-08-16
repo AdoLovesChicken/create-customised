@@ -1,0 +1,23 @@
+{
+  "name": "Tectonic",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "lWDHr9jE",
+      "slug": "tectonic",
+      "versionId": "vNrkxC3z",
+      "versionNumber": "3.0.26-neoforge-21.1",
+      "filename": "tectonic-3.0.26-neoforge-21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lWDHr9jE/versions/vNrkxC3z/tectonic-3.0.26-neoforge-21.1.jar",
+      "sha1": "3114da043f1b54fe32b2801266a27a8f477d7325",
+      "sha512": "7f91f69f6985cf5d0533dc0a645286f40b9625e0a67e405969d153497923a9b2e6b88e436b017eb969a1fbe28d02850d87152a06f2c01dc55779814912d770ef",
+      "fileSize": 461675
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

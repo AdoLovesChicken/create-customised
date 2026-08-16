@@ -1,0 +1,25 @@
+{
+  "name": "Exposure",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "hB899VmG",
+      "slug": "exposure",
+      "versionId": "KZR7AUbh",
+      "versionNumber": "1.9.18",
+      "filename": "exposure-neoforge-1.21.1-1.9.18.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/hB899VmG/versions/KZR7AUbh/exposure-neoforge-1.21.1-1.9.18.jar",
+      "sha1": "c37fe23cb482e9b3716ff5439defd4c84e2615ee",
+      "sha512": "2c0310cfbc9abfcf9e589fdf1079829253e47eb3ac84684a643951ebc432536a4e6f6567a67fc8ba4f4d55036e513804ff0996adee6a8a11cf59c76399de5ef6",
+      "fileSize": 2192415
+    }
+  },
+  "dependents": [
+    "WEWiqYkW"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

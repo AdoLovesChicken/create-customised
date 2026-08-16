@@ -1,0 +1,23 @@
+{
+  "name": "Create: Threaded Trains",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "RYJzdkDr",
+      "slug": "create-threaded-trains",
+      "versionId": "ry1hvo4l",
+      "versionNumber": "1.21.1-1.0.0",
+      "filename": "createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/RYJzdkDr/versions/ry1hvo4l/createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
+      "sha1": "1dec765e324bf968a1685a173aff5a13c11d0856",
+      "sha512": "93511d32e8c7484fdcfd90646d48f297ba3188788e0ea6412900be38ae6b82e69bc131bbb011519b52ac0728a7dfd531c0ac356a7935335c06f691ad20e38c69",
+      "fileSize": 77249
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

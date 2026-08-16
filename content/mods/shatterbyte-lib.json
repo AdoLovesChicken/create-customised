@@ -1,0 +1,25 @@
+{
+  "name": "ShatterLib | OctoLib",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "RH2KUdKJ",
+      "slug": "shatterbyte-lib",
+      "versionId": "yVCCi6TK",
+      "versionNumber": "0.6.2",
+      "filename": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/yVCCi6TK/OctoLib-NEOFORGE-0.6.2%2B1.21.jar",
+      "sha1": "f4f66d677b104c6af7f5c0f7e3c08d8e4370ecad",
+      "sha512": "c33faa056c9d5403f06b7aa883290c86c33dcea3502f99720df98eccbd819cd3050fb2ffecf048f2dbee1b69a14e9dc6c23245f35ba3a78e46b056859666a60a",
+      "fileSize": 544378
+    }
+  },
+  "dependents": [
+    "9wv7LuMc"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

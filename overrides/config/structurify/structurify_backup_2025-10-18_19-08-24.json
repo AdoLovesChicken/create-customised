@@ -1,0 +1,61 @@
+{
+  "config_version": "1.0.21",
+  "config_datetime": "2025-10-18_19-05-48",
+  "general": {
+    "min_structure_distance_from_world_center": 0,
+    "disable_all_structures": false,
+    "enable_global_spacing_and_separation_modifier": false,
+    "global_spacing_and_separation_modifier": 1.0
+  },
+  "structures": [],
+  "structure_sets": [
+    {
+      "name": "create_easy_structures:big_1",
+      "salt": 878977526,
+      "frequency": 0.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 60,
+      "separation": 25
+    },
+    {
+      "name": "create_easy_structures:big_2",
+      "salt": 878785151,
+      "frequency": 0.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 60,
+      "separation": 25
+    },
+    {
+      "name": "create_easy_structures:factory_1",
+      "salt": 991993825,
+      "frequency": 0.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 60,
+      "separation": 25
+    },
+    {
+      "name": "create_easy_structures:factory_2",
+      "salt": 991801451,
+      "frequency": 0.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 60,
+      "separation": 25
+    },
+    {
+      "name": "create_easy_structures:foresttracks",
+      "salt": 1204635669,
+      "frequency": 0.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 60,
+      "separation": 25
+    },
+    {
+      "name": "create_easy_structures:freight_station",
+      "salt": 1354297359,
+      "frequency": 0.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 50,
+      "separation": 25
+    }
+  ]
+}

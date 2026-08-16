@@ -1,0 +1,25 @@
+{
+  "name": "Antique Atlas 4",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Y5Ve4Ui4",
+      "slug": "antique-atlas-4",
+      "versionId": "2sDsTAId",
+      "versionNumber": "3.1.2+1.21",
+      "filename": "antique-atlas-3.1.2+1.21.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Y5Ve4Ui4/versions/2sDsTAId/antique-atlas-3.1.2%2B1.21.jar",
+      "sha1": "97b7c41cbcfcfb86e8ba80b316b1133ff1903e72",
+      "sha512": "e920516b107f009d8a671c4b07a65afc0060a11fe3d2918169eb8320408cb3a71b4bdfa7d58a59ff73d8161a545ba220f4e5d766434d46aa08de14e7fe6368cc",
+      "fileSize": 891461
+    }
+  },
+  "dependents": [
+    "aR9FhY20"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

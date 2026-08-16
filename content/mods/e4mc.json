@@ -1,0 +1,23 @@
+{
+  "name": "e4mc",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "qANg5Jrr",
+      "slug": "e4mc",
+      "versionId": "B3hKbv2R",
+      "versionNumber": "6.2.1-neoforge",
+      "filename": "e4mc-neoforge-6.2.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/qANg5Jrr/versions/B3hKbv2R/e4mc-neoforge-6.2.1.jar",
+      "sha1": "c881286372c35048c40f31dc3c457838a21d9401",
+      "sha512": "88cbcbc95b46bc518deb1c9a8c821c7cdfa01c1cdd8a3a255b9b99778a61440e84ee05d96d4fab994f96439aead8f31d9be949e0b932a3f8380c6f9865d85f40",
+      "fileSize": 664332
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

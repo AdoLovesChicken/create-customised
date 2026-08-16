@@ -1,0 +1,23 @@
+{
+  "name": "Global Packs",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "NRLPy2mk",
+      "slug": "globalpacks",
+      "versionId": "FPcUOp35",
+      "versionNumber": "21.0.6",
+      "filename": "globalpacks-neoforge-1.21.1-21.0.6.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/NRLPy2mk/versions/FPcUOp35/globalpacks-neoforge-1.21.1-21.0.6.jar",
+      "sha1": "55cf667b16b81df9b8f7fead042cf2f732b21b85",
+      "sha512": "5590a9066d84265a53e756fdb5b8872c383ffe069745756f1ff0fe54a315cefb5cc90ee3d0233a95f1dc2a7d68396b1102b9002d8b1aaf3ec476b52c7286c6b8",
+      "fileSize": 27239
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

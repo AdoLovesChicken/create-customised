@@ -1,0 +1,23 @@
+{
+  "name": "LibJF",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "WKwQAwke",
+      "slug": "libjf",
+      "versionId": "kCSwQJ9C",
+      "versionNumber": "3.17.7+forge",
+      "filename": "libjf-3.17.7+forge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/WKwQAwke/versions/kCSwQJ9C/libjf-3.17.7%2Bforge.jar",
+      "sha1": "0c7fb65f2e0d2c9e9888381df31e191d6a0e39f5",
+      "sha512": "a65aa0295abad7a9b8f79d5aa8f591a4c8073ffc3a0edced1b48bb8c1cc6740f233c4964901522ada7153bf2b562ff1eb5fee9e60419e39365e6581d4009eda3",
+      "fileSize": 681557
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

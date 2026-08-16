@@ -1,0 +1,23 @@
+{
+  "name": "Create: Synthetic Pressure",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "DFKpjlu6",
+      "slug": "create-synthetic-pressure",
+      "versionId": "S3pAqL5x",
+      "versionNumber": "1.21.1-1.0.1",
+      "filename": "create_synthetic_pressure-1.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/DFKpjlu6/versions/S3pAqL5x/create_synthetic_pressure-1.0.1.jar",
+      "sha1": "e47bab5b8ad432fc7bc121dc6615e27130bf7b3d",
+      "sha512": "e5bec19d591cbe9bf7891a29d0f46fe76e00c1244e9d5544d260057e36b822255e9ab00ba16717a38a511c394e08a912f283624c732aaeba872635029ad58cb9",
+      "fileSize": 55864
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

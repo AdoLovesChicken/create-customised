@@ -1,0 +1,23 @@
+{
+  "name": "UniLib",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "nT86WUER",
+      "slug": "unilib",
+      "versionId": "ClsEQJGw",
+      "versionNumber": "1.2.1+1.21.1-neoforge",
+      "filename": "UniLib-1.2.1+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/nT86WUER/versions/ClsEQJGw/UniLib-1.2.1%2B1.21.1-neoforge.jar",
+      "sha1": "4833a5685125ece15fed1108a5a7064527dc9d69",
+      "sha512": "6036a114ea386edb99e25314d36090ea9b2378c77526ec060a3dcea86c464e46ac9b3cc10cf061a1d6df475c2f80b40aaed7f4233af5da8902a497ce97a5512e",
+      "fileSize": 1583972
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Netherracked",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "vNFbVrF1",
+      "slug": "netherracked",
+      "versionId": "UI2l4FTm",
+      "versionNumber": "1.0.4",
+      "filename": "netherracked-1.0.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/vNFbVrF1/versions/UI2l4FTm/netherracked-1.0.4.jar",
+      "sha1": "e3ab70db1dcc2484ae9456b072222434e3412b4b",
+      "sha512": "80f274749ee9f24b8d74b157be9a6b99cf8e76ba6bde577b34197616b78de640c0b92f95f5f10e8efaa1f3f98861c9e4262f834f2af5f0d867d3eb1802d2c616",
+      "fileSize": 5148
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

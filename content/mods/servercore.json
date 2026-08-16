@@ -1,0 +1,22 @@
+{
+  "name": "ServerCore",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "550579",
+      "slug": "servercore",
+      "versionId": "8312220",
+      "versionNumber": "ServerCore NeoForge 1.5.19+1.21.1",
+      "filename": "servercore-neoforge-1.5.19+1.21.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8312/220/servercore-neoforge-1.5.19+1.21.1.jar",
+      "sha1": "62ce692654e09271b5c55cbb3a1ef7606d067132",
+      "fileSize": 1462674
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Create: Shuffle Filter",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "gv5RRavC",
+      "slug": "create-shuffle-filter",
+      "versionId": "NcJIZKwh",
+      "versionNumber": "2.2.0",
+      "filename": "create-shufflefilter-2.2.0-neo.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/gv5RRavC/versions/NcJIZKwh/create-shufflefilter-2.2.0-neo.jar",
+      "sha1": "276936832a29272e00cac3bb4e188859e10455b1",
+      "sha512": "ca71e9a54838244f4344b3d4767693b7689192200897c5bc35f70752d98c0b1e9c95949a85d62037a7686745703f922dd7eff2584fb0a37d02454ac11c64f865",
+      "fileSize": 222886
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

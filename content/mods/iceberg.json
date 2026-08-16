@@ -1,0 +1,23 @@
+{
+  "name": "Iceberg",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "5faXoLqX",
+      "slug": "iceberg",
+      "versionId": "IMssx9du",
+      "versionNumber": "1.3.2",
+      "filename": "Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/5faXoLqX/versions/IMssx9du/Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "sha1": "f6014d198be9503573cd9cb41cc789d282768ad8",
+      "sha512": "19d33195cfee0a640f40fb64d82346df7ac970ddb43ed68ba2dacb4793b18d577fd57dd43a4c2e94f731487c024b8d7ebcc52721764ec9d8a87bd68fc7df5c96",
+      "fileSize": 213853
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

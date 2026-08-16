@@ -1,0 +1,25 @@
+{
+  "name": "Rhino",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "sk9knFPE",
+      "slug": "rhino",
+      "versionId": "SqkDvOLG",
+      "versionNumber": "2101.2.8-build.91+Rhino-1.21",
+      "filename": "rhino-2101.2.8-build.91.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/sk9knFPE/versions/SqkDvOLG/rhino-2101.2.8-build.91.jar",
+      "sha1": "56eab1d464ed0811c64040c64bd047df5cbc3aad",
+      "sha512": "e3d92f663bc07872a83b0a6474b30a75230e9f92a2844fd98da1842ec9a79712bcb7d8e76574cc11ae3aeceb47f2933c60ddd6cf41f3ad7027bd573623730945",
+      "fileSize": 980936
+    }
+  },
+  "dependents": [
+    "umyGl7zF"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

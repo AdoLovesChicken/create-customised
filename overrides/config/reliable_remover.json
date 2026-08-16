@@ -1,0 +1,28 @@
+{
+  "showAttackMessage": true,
+  "showHandSwingMessage": true,
+  "showRemovalMessage": true,
+  "removeItemsFromCreativeTabs": true,
+  "removeItemsFromEmi": true,
+  "removeItemsFromInventories": true,
+  "removeItemsOnInventoryOpen": true,
+  "removeDroppedItems": true,
+  "removeItemsFromLootChests": true,
+  "removeItemsFromStorage": true,
+  "removeItemsFromInfoTabs": true,
+  "removeItemsFromTrades": true,
+  "removeMobEquipment": true,
+  "removeCnmChildren": true,
+  "enableEmiRemoval": false,
+  "showEmiToast": true,
+  "showEmiChatMessages": true,
+  "reloadAfterRemoval": false,
+  "blacklistedItems": [
+    "incubation:fried_egg",
+    "tungsten_mod:tungsten_jerky",
+    "tungsten_mod:tungsten_slop",
+    "/create_vibrant_vaults:.*_packager/",
+    "/create_vibrant_vaults:.*_stock_link/",
+    "/railways:track_(hexcasting|twilightforest|blue_skies|biomesoplenty|create_dd|quark|tfc).*/"
+  ]
+}

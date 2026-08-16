@@ -1,0 +1,23 @@
+{
+  "name": "Create: Oxidized",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "X9kjRZeX",
+      "slug": "create_oxidized",
+      "versionId": "z8PFRVBs",
+      "versionNumber": "0.1.3",
+      "filename": "create_oxidized-0.1.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/X9kjRZeX/versions/z8PFRVBs/create_oxidized-0.1.3.jar",
+      "sha1": "fe93a9575174b4993cf3fb5f2aed4dd4431096ee",
+      "sha512": "e13c938efe11bf23360d6e23b9186cd374e08ab099159eaa51fb1531561ee9c8702cf649280068bd07be3874776dd0866c93fdea7e709d4937bc5a11db7744ca",
+      "fileSize": 121297
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

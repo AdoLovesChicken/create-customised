@@ -1,0 +1,23 @@
+{
+  "name": "KubeJS Create",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "T38eAZQC",
+      "slug": "kubejs-create",
+      "versionId": "1qmcLagN",
+      "versionNumber": "2101.3.1-build.18",
+      "filename": "kubejs-create-neoforge-2101.3.1-build.18.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/T38eAZQC/versions/1qmcLagN/kubejs-create-neoforge-2101.3.1-build.18.jar",
+      "sha1": "f54d9ff53909771d27e4d9d135c3707cd5d5f855",
+      "sha512": "b2c3064a06f7a06aa479c38daa72fcf88e31e753cb16c53435690b2472f71acea49fe3fcab09a1e5d6fed88b289941f9ecf3f71ba9a7b8b84397cab2b8d9801d",
+      "fileSize": 38629
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Better ModList",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "sbpqhzIG",
+      "slug": "better-modlist",
+      "versionId": "XavNSFnf",
+      "versionNumber": "21.1.1",
+      "filename": "better_modlist-21.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/sbpqhzIG/versions/XavNSFnf/better_modlist-21.1.1.jar",
+      "sha1": "8dce8539dd11941ad48a0c8c8c9876b54a65f575",
+      "sha512": "cabcf78010f1d1ef599184a515704d84984c1eddcb41fd1bc77ee709cc804ea5a6ff25810e4a5a8c26dd0acd785fde7c4d05222dca850f02dabf9cd7f07138ae",
+      "fileSize": 818245
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

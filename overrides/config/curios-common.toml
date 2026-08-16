@@ -1,0 +1,13 @@
+#List of slots to create or modify.
+#See documentation for syntax: https://docs.illusivesoulworks.com/curios/configuration#slot-configuration
+#
+slots = [
+    "id=belt;size=0;operation=SET",
+    "id=back;size=0;operation=SET",
+    "id=head;size=0;operation=SET",
+    "id=goggles;size=1;add_cosmetic=false;order=1;icon=curios:slot/goggles",
+    "id=atlas;size=1;add_cosmetic=false;order=2;icon=curios:slot/atlas",
+    "id=lantern;size=1;add_cosmetic=false;order=3;icon=curios:slot/lantern",
+    "id=spyglass;size=1;add_cosmetic=false;order=4;icon=curios:slot/spyglass"
+]
+

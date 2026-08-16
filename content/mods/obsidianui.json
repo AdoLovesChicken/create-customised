@@ -1,0 +1,23 @@
+{
+  "name": "ObsidianUI",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "E0L8mfJZ",
+      "slug": "obsidianui",
+      "versionId": "UzYZy4w6",
+      "versionNumber": "0.2.9+mc1.21.1-neoforge",
+      "filename": "ObsidianUI-neoforge-0.2.9+mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/E0L8mfJZ/versions/UzYZy4w6/ObsidianUI-neoforge-0.2.9%2Bmc1.21.1.jar",
+      "sha1": "0fc75757e7976e2b2c6fd8d048e6cec71d5aa787",
+      "sha512": "d898a805f6ae6e44980b1e010e3ab4cb6eba868ecb1039440ff3caffc65c8b33637c714ec13a78193ce395ef2444094046524308fb5308dfd1e5985aa1085272",
+      "fileSize": 211727
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

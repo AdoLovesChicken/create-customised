@@ -1,0 +1,23 @@
+{
+  "name": "GPUBooster",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "5CTSrY8X",
+      "slug": "gputape",
+      "versionId": "nlerwS8N",
+      "versionNumber": "1.0.3-neo",
+      "filename": "GPUTape-1.20.6-1.21x-1.0.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/5CTSrY8X/versions/nlerwS8N/GPUTape-1.20.6-1.21x-1.0.3.jar",
+      "sha1": "96d8f1df0f08e169396b603c42cf997e9081de59",
+      "sha512": "63056c4ebc324244720d0ac35900ca121bcaee210b8684a48b4dd53c72c471f9075a6ca2da68270c72f2c2f8dedd970df02da250d44d18b95208c7f1deff3031",
+      "fileSize": 16669
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

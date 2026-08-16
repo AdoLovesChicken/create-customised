@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "e1b2bcdb-84d7-418d-957f-e7a625b5dd34",
+    "name": "Barrel_of_doom",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f16520f8-c404-46d2-8299-49c284c06293",
+    "name": "AdoLovesChicken",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

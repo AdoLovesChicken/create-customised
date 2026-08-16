@@ -1,0 +1,25 @@
+{
+  "name": "Lithostitched",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "XaDC71GB",
+      "slug": "lithostitched",
+      "versionId": "qPASucBM",
+      "versionNumber": "1.7.13-neoforge-21.1",
+      "filename": "lithostitched-1.7.13-neoforge-21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/XaDC71GB/versions/qPASucBM/lithostitched-1.7.13-neoforge-21.1.jar",
+      "sha1": "771a104dde071e16e67c7cd3149f7c3015375483",
+      "sha512": "04409013edce65678d02489a7b830ba7d5e18e7c705243c8208f52661da62e7e337a09fe2797c85d7a00bc66cb50949b157b267afd216e7b900ddde9849dff32",
+      "fileSize": 852541
+    }
+  },
+  "dependents": [
+    "lWDHr9jE"
+  ],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

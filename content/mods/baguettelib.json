@@ -1,0 +1,23 @@
+{
+  "name": "BaguetteLib",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "OfKzpbRU",
+      "slug": "baguettelib",
+      "versionId": "guIAbyuH",
+      "versionNumber": "2.0.3",
+      "filename": "baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/OfKzpbRU/versions/guIAbyuH/baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "sha1": "e01709c880b0602b7a306201a25866e76c44f5c0",
+      "sha512": "3def04f7f11ba743516594b69250ca7c54c11e0c4ffeeb718bfd9736096bfb25768642eb210f6cf716f33b8c12faf2e998df2db98cf495f0527620e8bec80a79",
+      "fileSize": 74380
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

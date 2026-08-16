@@ -1,0 +1,23 @@
+{
+  "name": "Fast IP Ping",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "9mtu0sUO",
+      "slug": "fast-ip-ping",
+      "versionId": "gRe07TZL",
+      "versionNumber": "v1.0.11-mc1.21.1-neoforge",
+      "filename": "fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/9mtu0sUO/versions/gRe07TZL/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
+      "sha1": "3e1a403f9298db23c163dbd85ab68210b4a8c688",
+      "sha512": "aaaf3c1494e240aa61d5191521cf324aab82a3d08c0a5dfa1db516bb26a6b165639b98fc8e9946bd65ad5048ecb6b96601d9febbd1d536f8e1ed5b72c741461f",
+      "fileSize": 10413
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

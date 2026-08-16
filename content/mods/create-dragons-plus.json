@@ -1,0 +1,26 @@
+{
+  "name": "Create: Dragons Plus",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "dzb1a5WV",
+      "slug": "create-dragons-plus",
+      "versionId": "kocCfVQd",
+      "versionNumber": "1.11.7",
+      "filename": "CreateDragonsPlus-1.11.7.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/dzb1a5WV/versions/kocCfVQd/CreateDragonsPlus-1.11.7.jar",
+      "sha1": "e299f8439dbdd644ca0e78cc8719c164f6768b9f",
+      "sha512": "0c017c4ff97b0e1237218f29b446070735a5b96dccf65c2eb2e480fb4fef1a1a710479ef7c14865099d74a6bc83cf0e429a6a92a231e7907a19c8b93087597f1",
+      "fileSize": 1038652
+    }
+  },
+  "dependents": [
+    "JWGBpFUP",
+    "btq68HMO"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

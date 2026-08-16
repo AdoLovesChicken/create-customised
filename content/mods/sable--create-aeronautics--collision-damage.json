@@ -1,0 +1,23 @@
+{
+  "name": "Sable: Collision damage  (Create Aeronautics)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Jm4nvDTr",
+      "slug": "sable-(create-aeronautics)-collision-damage",
+      "versionId": "snRIIWNz",
+      "versionNumber": "1.0.8-Sable_2.0.0+",
+      "filename": "sablecollisiondamage-1.0.8.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Jm4nvDTr/versions/snRIIWNz/sablecollisiondamage-1.0.8.jar",
+      "sha1": "ea36294547303f823c742619946db77b5cc7b279",
+      "sha512": "4fb775f34641bac24a2846e123c587616c43032b69576536c464f11ac855bae43e9a73d457ce57568d841a721a05192d7fad8ac2ac1078c5e7a81738eacea68d",
+      "fileSize": 42942
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

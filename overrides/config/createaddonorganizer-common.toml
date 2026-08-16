@@ -1,0 +1,303 @@
+#Default look of section banners, their contrast boxes, and their title text.
+#Per-section overrides made in the editors are stored under "saved".
+[appearance]
+	#Compute banner/text colours live as a red-to-violet gradient by tab position, instead
+	#of using the manual colour lists. Enabled by the Rainbow preset.
+	rainbowMode = false
+
+	#The coloured bar drawn at the top of each section.
+	[appearance.banner]
+		#Ignore curated banner pools and always show the full gallery.
+		showAllBanners = true
+		#Default section banner colour (ARGB int).
+		# Default: -14277082
+		# Range: > -2147483648
+		defaultBannerColor = -14277082
+		#Optional gradient for the default banner, as "<secondHex>|<DIRECTION>|<STYLE>"
+		#(DIRECTION: VERTICAL/HORIZONTAL/DIAGONAL_UP/DIAGONAL_DOWN, STYLE: SMOOTH/DITHER_2X2/
+		#DITHER_4X4/DITHER_TRICOLOR/DITHER_QUADCOLOR). Empty (default) means a flat colour.
+		defaultBannerGradient = ""
+
+	#The contrast box drawn behind a section's title text.
+	[appearance.box]
+		#Default tinted-box colour (ARGB int).
+		# Default: 1677721600
+		# Range: > -2147483648
+		defaultBoxColor = 1677721600
+		#Draw a semi-transparent box behind section title text for contrast.
+		tintedTextBox = false
+		#How much to darken a per-section contrast-box IMAGE when rendered (0 = no darkening,
+		#1 = fully black). Only applies while a box texture is set.
+		# Default: 0.0
+		# Range: 0.0 ~ 1.0
+		defaultBoxDarken = 0.0
+		#Opacity of a per-section contrast-box IMAGE when rendered (0 = fully transparent,
+		#1 = fully opaque). Only applies while a box texture is set.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
+		defaultBoxOpacity = 1.0
+
+	#Section title text: colour, shading, outline and shadow.
+	[appearance.text]
+		#Shade title text two-tone: primary colour on top, secondary on bottom of each glyph.
+		twoToneText = true
+		#Default section title text colour (ARGB int).
+		# Default: -1
+		# Range: > -2147483648
+		defaultTextColor = -1
+		#Default secondary text colour (ARGB int).
+		# Default: -3355444
+		# Range: > -2147483648
+		defaultTextSecondaryColor = -3355444
+		#Optional gradient for the default text colour, as "<secondHex>|<DIRECTION>".
+		#Text gradients always render smooth.
+		defaultTextGradient = ""
+		#Optional gradient for the default secondary text colour, as "<secondHex>|<DIRECTION>".
+		defaultTextSecondaryGradient = ""
+		#Default vertical split of two-tone text, as a fraction of glyph height from the top
+		#(0 = secondary, 1 = primary).
+		# Default: 0.55
+		# Range: 0.0 ~ 1.0
+		defaultTwoToneSplit = 0.55
+		#Fraction of the banner's title width text must exceed before scrolling. 1.0 (default)
+		#scrolls only on true overflow; lower values make shorter titles scroll too.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
+		defaultScrollCutoff = 1.0
+		#Draw title text with the vanilla drop shadow by default. Per-section overrides take
+		#precedence.
+		titleTextShadow = true
+		#Default custom drop-shadow colour (ARGB int), used once a section's shadow is
+		#unlinked from its text colour.
+		# Default: -16777216
+		# Range: > -2147483648
+		defaultTextShadowColor = -16777216
+		#Default title text outline colour (ARGB int). Starting colour in the banner editor's
+		#Outline panel.
+		# Default: -16777216
+		# Range: > -2147483648
+		defaultTextOutlineColor = -16777216
+		#Optional gradient for the default outline colour, as "<secondHex>|<DIRECTION>".
+		defaultTextOutlineGradient = ""
+
+#Which addon tabs get absorbed into Create, and where.
+[absorption]
+	#Fold a tab into a chosen Create parent tab. Format: "<addonTabId> > <parentTabId>",
+	#e.g. "somemod:deco > create:palettes".
+	routes = []
+	#Tab IDs to never absorb; they keep their own standalone tab.
+	forceExclude = []
+	#Tabs promoted to hub status (can have others folded into them) even without routes
+	#pointing at them yet. Managed via shift+"+" in the creative menu.
+	extraMainSections = []
+	#Tab IDs to always absorb under Create, even without a Create dependency.
+	forceInclude = []
+
+#Written by the in-game editors -- banner colours, images, names, orders and the
+#like, keyed by tab ID. Editing these by hand works, but the editors are easier.
+[saved]
+	#Your own uploads added to a curated tab's banner pool, keyed by tab ID. Format:
+	#"<tabId> = <ref>". Managed by the in-game banner editor.
+	extraBannerPool = []
+	#Accent colour for MAIN tabs only, keyed by tab ID. Config-screen only -- tints that
+	#tab's row in the section list, no effect in-game.
+	highlightColors = []
+	#Per-section title text colours, keyed by tab ID. Same format as sectionColors, minus
+	#the STYLE token.
+	textColors = ["create:base = #FFFFFFFF", "bits_n_bobs:bnb_based = #FFFFFFFF", "cardboardchalkbox:cardboard_chalk_tab = #FFFFFFFF", "create_train_parts:base = #FFFFFFFF", "create_dragons_plus:base = #FFFFFFFF", "create_easy_structures:create_easy_structures = #FFFFFFFF", "create_enchantment_industry:base = #FFFFFFFF", "escalated:base = #FFFFFFFF", "exposure:exposure = #FFFFFFFF"]
+	#Per-section secondary text colour overrides, keyed by tab ID. Only used while
+	#twoToneText is on.
+	textSecondaryColors = ["create:base = #FFCCCCCC", "bits_n_bobs:bnb_based = #FFCCCCCC", "cardboardchalkbox:cardboard_chalk_tab = #FFCCCCCC", "create_train_parts:base = #FFCCCCCC", "create_dragons_plus:base = #FFCCCCCC", "create_easy_structures:create_easy_structures = #FFCCCCCC", "create_enchantment_industry:base = #FFCCCCCC", "escalated:base = #FFCCCCCC", "exposure:exposure = #FFCCCCCC"]
+	#Per-section banner colours, keyed by tab ID. Format: "<tabId> = <hex>", optionally a
+	#gradient: "<tabId> = <hex1>|<hex2>|<DIRECTION>|<STYLE>". Accepts #RRGGBB, #AARRGGBB, or
+	#0x-prefixed hex.
+	sectionColors = []
+	#Manual drag order of sections within each parent tab. Unlisted sections are appended
+	#alphabetically.
+	sectionOrder = []
+	#Marks a banner texture as animated (vertical strip of 17px frames), keyed by texture id.
+	#Format: "<textureId> = <frametime>" (ticks). Bundled textures auto-detect via .mcmeta.
+	#Managed by the in-game banner editor.
+	animatedBanners = ["createaddonorganizer:custom_banner/remote/bnbbuilding1 = 2", "createaddonorganizer:custom_banner/remote/aeroworks1 = 2", "createaddonorganizer:custom_banner/remote/encased1 = 2", "createaddonorganizer:custom_banner/remote/enchantmentindustry1 = 2", "createaddonorganizer:custom_banner/remote/escalated1 = 2", "createaddonorganizer:custom_banner/remote/createprisim1 = 2"]
+	#Per-section banner IMAGES, keyed by tab ID; overrides the colour. Format:
+	#"<tabId> = <ref>" ("res:ns:path", "file:name.png", or "remote:name.png").
+	#Managed by the in-game banner editor; banners are 160x17.
+	banners = ["create:base = remote:Encased1.png", "bits_n_bobs:bnb_based = remote:bnbBuilding1.png", "cardboardchalkbox:cardboard_chalk_tab = remote:Encased1.png", "create_train_parts:base = remote:aeroworks1.png", "create_dragons_plus:base = remote:aeroworks1.png", "create_easy_structures:create_easy_structures = remote:Encased1.png", "create_enchantment_industry:base = remote:EnchantmentIndustry1.png", "escalated:base = remote:Escalated1.png", "exposure:exposure = remote:CreatePrisim1.png"]
+	#Custom display names, keyed by tab ID. Format: "<tabId> = <name>". Managed by
+	#ctrl+click-to-rename in the section list.
+	sectionNames = []
+	#Set once the banner editor's preview hint is dismissed. Turn off to show it again.
+	editorHintSeen = true
+	#Per-section tinted-box colours, keyed by tab ID. Same format as sectionColors; alpha
+	#controls opacity.
+	boxColors = ["create:base = #64000000", "bits_n_bobs:bnb_based = #64000000", "cardboardchalkbox:cardboard_chalk_tab = #64000000", "create_train_parts:base = #64000000", "create_dragons_plus:base = #64000000", "create_easy_structures:create_easy_structures = #64000000", "create_enchantment_industry:base = #64000000", "escalated:base = #64000000", "exposure:exposure = #64000000"]
+	#Per-section contrast-box IMAGES, keyed by tab ID (3-sliced horizontally so any width
+	#fits). Format: "<tabId> = <ref>" ("res:ns:path" or "file:name.png"). Fixed 14px height.
+	#Managed by the in-game box editor.
+	boxTextures = []
+	#Per-section contrast-box image darken overrides, keyed by tab ID.
+	boxDarkens = []
+	#Per-section contrast-box image opacity overrides, keyed by tab ID.
+	boxOpacities = []
+	#Per-section two-tone split overrides, keyed by tab ID. Format: "<tabId> = <fraction>".
+	#Only used while twoToneText is on.
+	textSplits = []
+	#Per-section scroll cutoff overrides, keyed by tab ID. Managed from the banner editor's
+	#Primary text panel.
+	scrollCutoffs = []
+	#Per-section drop-shadow on/off overrides, keyed by tab ID. Format: "<tabId> = true"
+	#or "false". Managed from the banner editor's Shadow panel.
+	titleTextShadowSections = []
+	#Per-section text outline colours, keyed by tab ID. An entry's presence enables the
+	#outline for that section. Managed from the banner editor's Outline panel.
+	textOutlineColors = []
+	#Per-section custom drop-shadow colours, keyed by tab ID. An entry unlinks that shadow
+	#from the primary text colour. Only drawn while titleTextShadow is on.
+	textShadowColors = []
+	#Sections currently collapsed via the collapse toggle. Only relevant while
+	#showCollapseToggle is on.
+	collapsedSections = []
+	#Manual order of creative tabs, as tab IDs. Unlisted tabs keep their registry
+	#order and are appended after. Managed by the Tab Arranger.
+	tabOrder = []
+
+#Community banners and text banners fetched from the internet. Turn the two fetch
+#switches off to keep the mod fully offline.
+[online]
+	#URL of the remote banner manifest (JSON). Used only when fetchOnlineBanners is true.
+	bannerManifestUrl = "https://cdn.jsdelivr.net/gh/SockyWocky7/createaddonorganizer@master/banners/index.json"
+	#Check GitHub once per launch for new/updated community banners and credits. Disable
+	#for offline use.
+	fetchOnlineBanners = true
+	#URL of the remote banner-pool manifest (JSON) -- curated banners per tab. Used only
+	#when fetchOnlineBanners is true; edit the file at this URL to update pools without a
+	#mod update.
+	bannerPoolsManifestUrl = "https://cdn.jsdelivr.net/gh/SockyWocky7/createaddonorganizer@master/banners/pools.json"
+	#Check GitHub once per launch for new/updated community text-banner textures. Disable
+	#for offline use.
+	fetchOnlineBoxTextures = true
+	#URL of the remote text-banner manifest (JSON). Used only when fetchOnlineBoxTextures
+	#is true.
+	boxManifestUrl = "https://cdn.jsdelivr.net/gh/SockyWocky7/createaddonorganizer@master/text_banners/index.json"
+
+#This mod's own screens: the section list, tab studio, arranger and editors.
+[menus]
+	#Where the banner preview sits in the editor: true = under the title, false = above
+	#the OK/Cancel buttons.
+	bannerEditorPreviewTop = false
+	#Use the classic (pre-1.3) organizer menu: centered column, per-row Edit button, no search or sidebar.
+	classicOrganizerLayout = true
+	#Visual style of this mod's own config screens: DEFAULT (stock Minecraft widgets),
+	#CREATE (flat dark panels with light outlines, after Create's config editor) or
+	#ESSENTIAL (flat grey cards with a blue accent). Layout is identical for all.
+	#Allowed Values: DEFAULT, CREATE, ESSENTIAL
+	menuStyle = "DEFAULT"
+	#Only used by the CREATE menu style. When true the panorama shows through a dark
+	#tint; when false the background is a flat opaque slate, which reads closer to
+	#Create's own config editor.
+	menuStyleTransparent = true
+	#Only used by the CREATE menu style. Hue in degrees for every accent -- button
+	#outlines, text, rules, scrollbars and highlights. 205 is Create's own blue;
+	#raise it toward 280 for purple, drop it toward 120 for green. Use -1 for a
+	#neutral greyscale theme with no colour at all.
+	# Default: 205
+	# Range: -1 ~ 360
+	menuAccentHue = 205
+	#Visual style of the Tab Arranger screen: OUTLINE (black panels with white
+	#outlines, default), DARK (dark bevelled panels), VANILLA (the stock creative
+	#menu look).
+	#Allowed Values: OUTLINE, DARK, VANILLA
+	arrangerStyle = "OUTLINE"
+	#Tab Arranger layout: SCREEN (a replica of the creative menu, one page at a
+	#time, default) or PAGES (a scrolling grid of page cards, more pages at once).
+	#Allowed Values: SCREEN, PAGES
+	arrangerLayout = "SCREEN"
+	#Pixel chunkiness of the hue/saturation/value gradients in the banner editor. 1 =
+	#smooth, higher = blockier.
+	# Default: 5
+	# Range: 1 ~ 20
+	gradientCellSize = 5
+
+#How organized tabs behave inside the creative menu itself.
+[creative]
+	#Visual style of the section-index panel: VANILLA (light
+	#raised panel, default), DARK (flat dark panel), REFURBISHED (beveled side tabs),
+	#BACKPORT (compact textured panel).
+	#Allowed Values: VANILLA, DARK, REFURBISHED, BACKPORT
+	indexPanelStyle = "VANILLA"
+	#Show Fancy Tab Sections' collapse/expand button on each banner. Off by default.
+	showCollapseToggle = false
+	#Keep each section's banner pinned to the top while scrolling its items, instead of scrolling away.
+	stickySectionBanners = false
+
+#Rendering cost of this mod's screens. Lower these first if a menu feels slow.
+[performance]
+	#Render each item icon once into a cached texture instead of rebuilding its model every
+	#frame. Large item grids get much faster. Turn this off if icons look wrong.
+	cacheItemIcons = true
+	#Frame rate cap while a menu is open outside a world. Vanilla hard-codes this to 60,
+	#which makes menu scrolling and animations feel choppy. Your video settings' Max
+	#Framerate still applies as the upper bound. Set to 60 for vanilla behaviour.
+	# Default: 120
+	# Range: 60 ~ 1000
+	menuFramerate = 120
+
+#Sound effects played by this mod's own screens. Nothing here affects the game.
+[sounds]
+	#Master switch for every sound below -- turn off for silent menus.
+	allSounds = true
+	#Voicing for all of the sounds below: CLICKY (sharp, high-pitched clicks) or
+	#THOCKY (deeper, muted wooden knocks).
+	#Allowed Values: CLICKY, THOCKY
+	sfxStyle = "CLICKY"
+	#Click when picking up an item, section or tab to drag it.
+	grab = true
+	#Click when dropping whatever was being dragged.
+	release = true
+	#Rising pops as a shift-drag sweeps extra items into the carried stack.
+	pickup = true
+	#Tick as a dragged item moves from one grid slot to the next.
+	gridStep = true
+	#Click when the tab editor's split bar snaps to a new column count.
+	snap = true
+	#Faint tick per notch while scrolling a list or grid, or dragging a scrollbar.
+	scroll = true
+	#Refusal sounds: a two-note "no" for undo/redo with an empty history, and a soft low
+	#thud for scrolling past the end of a list. The thud also needs scroll to be on.
+	blocked = true
+	#Lid creak as a dragged item enters the tab editor's bin.
+	binHover = true
+	#One clunk per item as it lands in the bin.
+	binItem = true
+	#Lid slam once everything has landed in the bin.
+	binClose = true
+
+#Motion in this mod's own screens. Turning one off makes that effect snap straight
+#to its finished state -- nothing is hidden, it just stops moving.
+[animations]
+	#Master switch for every animation below.
+	allAnimations = true
+	#The section list's opening sequence: the title sliding down, then buttons, rules and
+	#rows fading in.
+	menuEntrance = true
+	#The shine that sweeps across the section list's title every few seconds.
+	titleGlint = true
+	#Eased scrolling in lists and item grids. Off means each notch jumps straight to its
+	#new position.
+	smoothScroll = true
+	#Items and section rows gliding to their new places in the tab editor as a drag
+	#reorders them.
+	itemSlide = true
+	#The brief pop an item makes when it lands in the tab editor's contents.
+	itemPop = true
+	#The tab editor's bin: the lid, items falling in, and the landing squash.
+	bin = true
+	#The tab editor's split bar easing into place after a resize instead of snapping.
+	paneResize = true
+	#The tab editor's control hints fading between each other. Off leaves one hint on
+	#screen; clicking it still moves to the next.
+	controlTips = true
+	#The crossfade when switching between menu styles.
+	styleBlend = true
+	#Skinned buttons easing their outline colour on hover and click.
+	buttonHover = true

@@ -1,0 +1,25 @@
+{
+  "name": "Chalk",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "YWGP4Y1d",
+      "slug": "chalk-mod",
+      "versionId": "FO0SZRP2",
+      "versionNumber": "1.6.12",
+      "filename": "chalk-1.6.12.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/YWGP4Y1d/versions/FO0SZRP2/chalk-1.6.12.jar",
+      "sha1": "d732fbad51790698a91330533cc1e79cb26f66bb",
+      "sha512": "56e91614e7dfa04552f7db6270165539c55643bd092f46d57aa04ac5489626fc95b83a93c37f0d477f0282db9feb0b0c86e44f4dc61a676256cfd37b12232ff1",
+      "fileSize": 338917
+    }
+  },
+  "dependents": [
+    "WxALA5o1"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

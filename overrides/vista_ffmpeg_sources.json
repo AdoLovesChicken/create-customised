@@ -1,0 +1,5 @@
+{
+  "comment": "These are the most popular and trustworthy sources for pre compiled FFMPEG binaries. If you prefer not to use these swap them out for something else. Note that pre compiled FFMPEG from official sources do not exist.",
+  "linux": "johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz",
+  "windows": "gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip"
+}

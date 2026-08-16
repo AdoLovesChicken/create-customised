@@ -1,0 +1,23 @@
+{
+  "name": "ExtraSounds Next",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "jv7tzVE4",
+      "slug": "extrasoundsforge",
+      "versionId": "HnAHMeR1",
+      "versionNumber": "1.5.6+1.21.1-neoforge",
+      "filename": "extrasounds-1.5.6+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/jv7tzVE4/versions/HnAHMeR1/extrasounds-1.5.6%2B1.21.1-neoforge.jar",
+      "sha1": "fb22d8c7e6cdf37acaca69b505165ac70ee3d5b9",
+      "sha512": "a46f7e39e2fac171462b06136114e32d0bfb570cb8096f70b559a0ea1983a318a4ee0917740b513101128a2f4711c23002b220e7e7333e641f40a569d0d4ae3d",
+      "fileSize": 376588
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

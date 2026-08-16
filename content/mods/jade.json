@@ -1,0 +1,25 @@
+{
+  "name": "Jade 🔍",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "nvQzSEkH",
+      "slug": "jade",
+      "versionId": "eYz2YBGT",
+      "versionNumber": "15.10.6+neoforge",
+      "filename": "Jade-1.21.1-NeoForge-15.10.6.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/nvQzSEkH/versions/eYz2YBGT/Jade-1.21.1-NeoForge-15.10.6.jar",
+      "sha1": "88ee316e68900080b017f60c12162e2731924cf8",
+      "sha512": "dad9755dce8d85d914fc4df2baa0211f13e5839a71c1925fdd01f69081a95e30a2934e6273f8b01f0169adebe7a9dae57a8d904de0c4cb36dc17369bb474f0f2",
+      "fileSize": 726853
+    }
+  },
+  "dependents": [
+    "xuDOzCLy"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

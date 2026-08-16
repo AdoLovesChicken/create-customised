@@ -1,0 +1,23 @@
+{
+  "name": "Default Options",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "WEg59z5b",
+      "slug": "default-options",
+      "versionId": "1zt17WsC",
+      "versionNumber": "21.1.8+neoforge-1.21.1",
+      "filename": "defaultoptions-neoforge-1.21.1-21.1.8.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/WEg59z5b/versions/1zt17WsC/defaultoptions-neoforge-1.21.1-21.1.8.jar",
+      "sha1": "d682687ec41236092c5206a21e2ed34bdb7f6b79",
+      "sha512": "29f66777068d92b1e149630d569441e5176ac40ec5cb4ee6c63c565aa7d475587a5097f59c433d69a39fd238b64902e2ba742b30c26419de901c86a3300b848e",
+      "fileSize": 105507
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

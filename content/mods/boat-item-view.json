@@ -1,0 +1,23 @@
+{
+  "name": "Boat Item View",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "BdKIyOLe",
+      "slug": "boat-item-view",
+      "versionId": "6EYLZUOH",
+      "versionNumber": "1.21-1.21.1-0.0.6-neoforge",
+      "filename": "boatiview-neoforge-0.0.6-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/BdKIyOLe/versions/6EYLZUOH/boatiview-neoforge-0.0.6-1.21.1.jar",
+      "sha1": "77cadff679ed3f533f0510655d1d6088fb876d0f",
+      "sha512": "b61bcfb81daadcbd451538e088e34e42ec8876b62a1a960b729558dba9560614b76f593e743b1241703d3eae606f87a3ccfa01931da45e740526d811ca8df0f9",
+      "fileSize": 52795
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Steam 'n' Rails Neoforge",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "L3Jv0QZI",
+      "slug": "create-steam-n-rails-1.21.1",
+      "versionId": "czVeSmZo",
+      "versionNumber": "0.3.0-beta.2+neoforge-mc1.21.1",
+      "filename": "railways-0.3.0-beta.2+neoforge-mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/L3Jv0QZI/versions/czVeSmZo/railways-0.3.0-beta.2%2Bneoforge-mc1.21.1.jar",
+      "sha1": "82a28ce51fdbc583477d7ae7c4c94cc6d23ec2b4",
+      "sha512": "def5c767467bf7863e2efc1a8cc3bf3442e1090ee1504e447c4120b9ff4ff6780de93d2a7d1bf696cd19407010d465b99f00bbf780776b0a9648804fa1b45f75",
+      "fileSize": 18728584
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

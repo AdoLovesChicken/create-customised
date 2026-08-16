@@ -1,0 +1,9 @@
+#Disables specific entries
+[entries]
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+		[entries.wood_type.create]
+			window_pane = true
+			window = true

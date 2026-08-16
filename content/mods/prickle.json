@@ -1,0 +1,26 @@
+{
+  "name": "Prickle",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "aaRl8GiW",
+      "slug": "prickle",
+      "versionId": "EE1FHDyD",
+      "versionNumber": "21.1.11",
+      "filename": "prickle-neoforge-1.21.1-21.1.11.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/aaRl8GiW/versions/EE1FHDyD/prickle-neoforge-1.21.1-21.1.11.jar",
+      "sha1": "5174059ecf97340a0de5ef211b938de26c4eaa36",
+      "sha512": "154d42795ccf1f3e07714775cdb82fd5db17574319286ced13d86b0456b64e4cf5bb89ffbcbfcefce67b73ed0b83e4e2944e493d79d9a385ff9de23006ee7bf5",
+      "fileSize": 84812
+    }
+  },
+  "dependents": [
+    "UVtY3ZAC",
+    "lOOpEntO"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

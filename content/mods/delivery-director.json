@@ -1,0 +1,23 @@
+{
+  "name": "Create: Delivery Director [Discontinued]",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "qRL8MwMB",
+      "slug": "delivery-director",
+      "versionId": "h8uBCjnS",
+      "versionNumber": "1.0.1",
+      "filename": "delivery_director-1.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/qRL8MwMB/versions/h8uBCjnS/delivery_director-1.0.1.jar",
+      "sha1": "b402bc1c2e4aa9f9928043a7b42819852af34daf",
+      "sha512": "a883150b22c8ec130f368381c06c031b0e5e275ea1184747689e732560ea8db82603cc7b936f796ea137c20c2bcbfca59047911bbb49b71ef7438fe4ce55fc0d",
+      "fileSize": 71664
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

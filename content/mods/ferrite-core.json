@@ -1,0 +1,23 @@
+{
+  "name": "FerriteCore",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "uXXizFIs",
+      "slug": "ferrite-core",
+      "versionId": "x7kQWVju",
+      "versionNumber": "7.0.3-neoforge",
+      "filename": "ferritecore-7.0.3-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar",
+      "sha1": "9563692efb708b6b568df27a01ec52f6311928ef",
+      "sha512": "19af89a2075bb10a63884fa853ebf84b02c79dc3242430ecdad056fd764fdcde367a7303276b329df01b0736e2ef264c5d80c7dc92c6aebd244f556a230bb417",
+      "fileSize": 121559
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

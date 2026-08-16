@@ -1,0 +1,6 @@
+# Player edits to files matching these patterns will persist with updates.
+# One pattern per line, relative to .minecraft.
+# * matches within a folder, ** matches any depth.
+#
+# config/somemod.toml
+# config/somemod/**

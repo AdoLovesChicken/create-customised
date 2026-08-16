@@ -1,0 +1,23 @@
+{
+  "name": "Create: Easy Structures",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "z69Pxatv",
+      "slug": "create-easy-structures",
+      "versionId": "ECkmsrG4",
+      "versionNumber": "0.2a",
+      "filename": "create_easy_structures-0.2a-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/z69Pxatv/versions/ECkmsrG4/create_easy_structures-0.2a-neoforge-1.21.1.jar",
+      "sha1": "5878bdf8facd954cce7da3a55ab1d5274fe4ef6d",
+      "sha512": "69c340c6ef729d41e3ecb71de5d7d8db53a32dd08780458bb8828a960cd54d5d53dc19ad2aa948a0e7328013fef49dc5276edb6641eec33a52fe5f6ba373c75c",
+      "fileSize": 469490
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

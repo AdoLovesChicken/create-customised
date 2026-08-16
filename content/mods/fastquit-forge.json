@@ -1,0 +1,23 @@
+{
+  "name": "FastQuit-Forge",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "itFaO2Tg",
+      "slug": "fastquit-forge",
+      "versionId": "KYXvyxuO",
+      "versionNumber": "3.0.1+1.21neoforge",
+      "filename": "Fastquit-3.0.1+1.21.1neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/itFaO2Tg/versions/KYXvyxuO/Fastquit-3.0.1%2B1.21.1neoforge.jar",
+      "sha1": "ff63fc19c292502588db8a8f5d77a9d3cfe2fc0a",
+      "sha512": "a889e2a9a3237e9f39bd99d54b5e31e299f1cbc3a8e4b5d49b50dfb67ea142a6fc37b0f38a272834adfb2e8ab639c3b13e953b9a3d42c8e551c28f67bd49a801",
+      "fileSize": 152056
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

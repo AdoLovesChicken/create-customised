@@ -1,0 +1,23 @@
+{
+  "name": "Enchantment Descriptions",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "UVtY3ZAC",
+      "slug": "enchantment-descriptions",
+      "versionId": "OuJDPGSM",
+      "versionNumber": "21.1.10",
+      "filename": "enchdesc-neoforge-1.21.1-21.1.10.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/UVtY3ZAC/versions/OuJDPGSM/enchdesc-neoforge-1.21.1-21.1.10.jar",
+      "sha1": "9a06a20881c5feb730aa249666cac2871ca99fda",
+      "sha512": "8932647d23f19ead791a921b0793f61fd7c36601824afef060a55dad9e1ace64f1cb50bd83490d43c9dff3a34661b68b89975f8c4f36b69f36b8e44592d0ad16",
+      "fileSize": 82629
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "optional"
+}

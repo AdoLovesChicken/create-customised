@@ -1,0 +1,23 @@
+{
+  "name": "Create: Big Contraptions",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "jv0UKGOX",
+      "slug": "big-contraptions",
+      "versionId": "F92BjGXG",
+      "versionNumber": "1.0",
+      "filename": "bigcontraptions-neoforge-1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/jv0UKGOX/versions/F92BjGXG/bigcontraptions-neoforge-1.0.jar",
+      "sha1": "cf1af44de7042f26fce74549130e1eb7d937ced8",
+      "sha512": "70830507e68f9c12e6b908d5fc030c960fcd7137078d7abcab48362bd68fa08c01fa7ae4207e5510b87ec47ec69f36d8dd933791a0175765c0cdfefdc138f98e",
+      "fileSize": 5861
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

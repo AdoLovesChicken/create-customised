@@ -1,0 +1,23 @@
+{
+  "name": "Create: Molten Vents",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "uuVy6k1s",
+      "slug": "create-molten-vents",
+      "versionId": "By33YVeb",
+      "versionNumber": "2.1.1",
+      "filename": "molten_vents-1.21.1-2.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/uuVy6k1s/versions/By33YVeb/molten_vents-1.21.1-2.1.1.jar",
+      "sha1": "0d645330128d1d7dc0b330760f4517d3ff4a2a9d",
+      "sha512": "2bfc64f786ca8f40abdae92a5d5183eb51174a98efe7794b7041840b83a495988614da654f983ef740a62d4571e4d5b0950854b336c4868fb77fabaec074337b",
+      "fileSize": 88500
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

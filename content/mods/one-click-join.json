@@ -1,0 +1,23 @@
+{
+  "name": "One Click Join",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "gmVdcG6g",
+      "slug": "one-click-join",
+      "versionId": "YT42CTpD",
+      "versionNumber": "1.2.0",
+      "filename": "one-click-join-1.21.1-neoforge-1.2.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/gmVdcG6g/versions/YT42CTpD/one-click-join-1.21.1-neoforge-1.2.0.jar",
+      "sha1": "afaf4beace22d9073d40bea400810b5cf72fef05",
+      "sha512": "8fa4b07b098ed834bc64696f5afdf2a35b846fd6a7c633b4f40f916cc4b9abf8f4cd7c0d44733dc839dbc5fe241b458c4f76d7bff8359de99cb417dfcf78eb6a",
+      "fileSize": 42382
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

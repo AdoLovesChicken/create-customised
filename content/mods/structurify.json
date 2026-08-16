@@ -1,0 +1,23 @@
+{
+  "name": "Structurify - Structure Control",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "yz7AM2zx",
+      "slug": "structurify",
+      "versionId": "p5Engpdh",
+      "versionNumber": "neoforge-2.0.32+mc1.21.1",
+      "filename": "structurify-neoforge-2.0.32+mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/yz7AM2zx/versions/p5Engpdh/structurify-neoforge-2.0.32%2Bmc1.21.1.jar",
+      "sha1": "4e406cfd548c094cb361c2396dbef4d5800b7095",
+      "sha512": "bb8d323ea8a95198fd4fbf21181414fc5f728df6ae286923f8230dcf277751755c93ccdc60578de3fcca85212218bb9702c550eb92a29781f3f33faa490ef572",
+      "fileSize": 476901
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

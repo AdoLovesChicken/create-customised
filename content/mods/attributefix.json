@@ -1,0 +1,23 @@
+{
+  "name": "AttributeFix",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "lOOpEntO",
+      "slug": "attributefix",
+      "versionId": "TyNITLDY",
+      "versionNumber": "21.1.3",
+      "filename": "attributefix-neoforge-1.21.1-21.1.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lOOpEntO/versions/TyNITLDY/attributefix-neoforge-1.21.1-21.1.3.jar",
+      "sha1": "7aae849f6d2a6cb1368227407ea5deb552e100ba",
+      "sha512": "09e1ff6012d5b7bef7bb701d38feaaab41db4f2fc8b9f669b820fc2c91e53098e093e401062ad80a0ce249c68aa7a6209ac9ee341518b8f640bae2393b1595ae",
+      "fileSize": 19809
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

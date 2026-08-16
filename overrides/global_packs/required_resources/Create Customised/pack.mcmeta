@@ -1,0 +1,9 @@
+{
+	"pack": {
+		"pack_format":34,
+		"supported_formats":[34,64],
+		"min_format":[34,0],
+		"max_format":[69,114514],
+		"description": "The required textures for the Create Customsied modpack"
+	}
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Forgified Fabric API",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Aqlf1Shp",
+      "slug": "forgified-fabric-api",
+      "versionId": "L9bk5uA9",
+      "versionNumber": "0.116.15+2.3.1+1.21.1",
+      "filename": "forgified-fabric-api-0.116.15+2.3.1+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/L9bk5uA9/forgified-fabric-api-0.116.15%2B2.3.1%2B1.21.1.jar",
+      "sha1": "f3b5ff6e2ca338d8d9338acc5a1e47393e7b1ad2",
+      "sha512": "de6cc76a406371c6cab8600621ea9bf630a796baaa64afa2103a75cddcc8ab52e0a15a5c3dec9b2ed2cf3efcd7d93c622434eb3e8d007361fdd54f2504c09757",
+      "fileSize": 5590061
+    }
+  },
+  "dependents": [
+    "1IjD5062",
+    "u58R1TMW"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

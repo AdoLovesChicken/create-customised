@@ -1,0 +1,15 @@
+{
+  "schema_version": "2",
+  "failed_reloads_per_session": "3",
+  "default_packs": [
+    "file/Create Customised.zip"
+  ],
+
+  "base_packs": [
+    "file/Create Customised.zip"
+  ],
+  "$$base_packs": {
+    "hidden": true,
+    "required": true
+  }
+}

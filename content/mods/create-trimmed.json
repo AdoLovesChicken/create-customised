@@ -1,0 +1,23 @@
+{
+  "name": "Create: Trimmed",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "zvaHXgQz",
+      "slug": "create-trimmed",
+      "versionId": "P1pdTwvn",
+      "versionNumber": "1.0.1",
+      "filename": "create_trimmed.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/zvaHXgQz/versions/P1pdTwvn/create_trimmed.jar",
+      "sha1": "2a7e00032f611c06f9e5fa2e743052552f5cb5c9",
+      "sha512": "bc1e2515975122fa888595427ca0381a1a4f6f117b88d14b4d3c260a4e6b1cfc0f8113c01074e472fb52a35cdaf8bbab45ebf89baa4ce49ff42567c25a43c0cb",
+      "fileSize": 505421
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

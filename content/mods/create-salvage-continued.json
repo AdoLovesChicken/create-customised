@@ -1,0 +1,23 @@
+{
+  "name": "Create: Salvage Continued",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "GudmVT2e",
+      "slug": "create-salvage-continued",
+      "versionId": "iD5N1UmE",
+      "versionNumber": "1.2.0",
+      "filename": "create_salvage-1.2.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/GudmVT2e/versions/iD5N1UmE/create_salvage-1.2.0.jar",
+      "sha1": "1e7c654659e7068d21ca81d6c6ddb3ea533f71f3",
+      "sha512": "b47f0ea4f4faad657ca86ed1634d6b57f06fb49ca8e796ee8d3b52e7b0cedb6326d97295de03713458c75a64dbe2b2606de35ab02e208cdfe7b0a18d064135a9",
+      "fileSize": 159647
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

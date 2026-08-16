@@ -1,0 +1,8 @@
+#DO NOT ENABLE UNLESS DEBUG TESTING. Used for testing. Displays many values while Rail Grinding.
+debugMode = false
+#Volume for all Rail Grinding sounds.
+# Default: 0.5
+# Range: 0.0 ~ 1.0
+soundVolume = 0.5
+#Camera Roll when Rail Grinding. May cause motion sickness.
+cameraRollOnLean = false

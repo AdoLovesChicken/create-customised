@@ -1,0 +1,23 @@
+{
+  "name": "Vanilla Backport X Incubation Compat",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "lNGTX5Va",
+      "slug": "vanillabackportxincubationcompat",
+      "versionId": "P6O0gEMr",
+      "versionNumber": "1.4",
+      "filename": "vbincubationcompat-1.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lNGTX5Va/versions/P6O0gEMr/vbincubationcompat-1.4.jar",
+      "sha1": "a6673644514b145617d709f7da246abeeab469dc",
+      "sha512": "56d15f777282fae2837915c0fb6851f97e7f4cf05fbfa5b5864463cc25dec2535f32d3891a257f36d826d01adc1d9e81646670ead9f6bba5493ca9cdc08a420b",
+      "fileSize": 49423
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

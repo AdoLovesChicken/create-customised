@@ -1,0 +1,12 @@
+{
+  "chippedSaw": true,
+  "inventoryLinker": false,
+  "shadowRadiance": false,
+  "proximitySchedule": true,
+  "displayBoardModification": true,
+  "blazeBurnerUseLiquids": false,
+  "statue": true,
+  "trashCan": true,
+  "enderPackager": false,
+  "stockManager": false
+}

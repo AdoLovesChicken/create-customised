@@ -1,0 +1,26 @@
+{
+  "name": "KubeJS",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "umyGl7zF",
+      "slug": "kubejs",
+      "versionId": "F2nzeC19",
+      "versionNumber": "2101.7.2-build.368",
+      "filename": "kubejs-neoforge-2101.7.2-build.368.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/umyGl7zF/versions/F2nzeC19/kubejs-neoforge-2101.7.2-build.368.jar",
+      "sha1": "edf131afd474151afe076ea975ce5fec5a206ad8",
+      "sha512": "5e2f1bd1460d8f443ce4bd44ed367d27f9170e50dff2ce9430954206e89651f8969dfbe842c3100b0244f8d58f843fc5fb9c46b5c576430a07f1e5b6dd4b9f7b",
+      "fileSize": 2281720
+    }
+  },
+  "dependents": [
+    "T38eAZQC",
+    "apt5xJoR"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

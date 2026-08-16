@@ -1,0 +1,26 @@
+{
+  "name": "Bookshelf",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "uy4Cnpcm",
+      "slug": "bookshelf-lib",
+      "versionId": "1sdJl7J1",
+      "versionNumber": "21.1.81",
+      "filename": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/uy4Cnpcm/versions/1sdJl7J1/bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "sha1": "efc4cda6da4dd879f24d057ed0a6413764c9ba40",
+      "sha512": "78d4577a8e8fbb241216968475dd73f5b9e5efeb7da802b18a4e6c290e49af6cb4a5676e9855d0d8ff3613f967812e4bd363bbb9196c17c954d19454f84b2214",
+      "fileSize": 328813
+    }
+  },
+  "dependents": [
+    "UVtY3ZAC",
+    "lOOpEntO"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

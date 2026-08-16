@@ -1,0 +1,25 @@
+{
+  "name": "Strut Your Stuff",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "sHO3MhQx",
+      "slug": "strut-your-stuff",
+      "versionId": "Nrn7hYca",
+      "versionNumber": "1.3.0",
+      "filename": "struts-1.3.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/sHO3MhQx/versions/Nrn7hYca/struts-1.3.0.jar",
+      "sha1": "354d494b66010c2d9e44e63d46efca7ba6c0a97e",
+      "sha512": "81837e97ebc081bd4afb0d456837e7b598f79c37b1d31874e7550d4a2f42f8c864587f9a04f44f14f175e9cf69884cd2e593fa1fb315727040affa1d69c2df06",
+      "fileSize": 215558
+    }
+  },
+  "dependents": [
+    "T8bvmqVZ"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

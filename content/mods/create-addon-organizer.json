@@ -1,0 +1,23 @@
+{
+  "name": "Create: Addon Organizer",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "CKNIaFKn",
+      "slug": "create-addon-organizer",
+      "versionId": "zjKBE4F8",
+      "versionNumber": "1.5",
+      "filename": "createaddonorganizer-1.5__1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/CKNIaFKn/versions/zjKBE4F8/createaddonorganizer-1.5__1.21.1.jar",
+      "sha1": "2e7f7f10c3cb5372ef6b18bf9a6e30f0a5a51f55",
+      "sha512": "f6fd494d10ab050bbe96a1aad7dd0dd543e087c76334829444d8974064794abf5634003c884fef1dec95d85d281ca8cacce819dc5c2783a65f87d9b75f9a6d63",
+      "fileSize": 714765
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

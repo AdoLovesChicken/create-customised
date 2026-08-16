@@ -1,0 +1,26 @@
+{
+  "name": "Farmer's Delight",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "R2OftAxM",
+      "slug": "farmers-delight",
+      "versionId": "GbNuOZ4S",
+      "versionNumber": "1.21.1-1.3.2",
+      "filename": "FarmersDelight-1.21.1-1.3.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/R2OftAxM/versions/GbNuOZ4S/FarmersDelight-1.21.1-1.3.2.jar",
+      "sha1": "bf7e7dede99e832de20e191b1f6c11f7a9b9a622",
+      "sha512": "da5a4236427df8010d75992201c8723ac84a8fa71efa55670551d333cac94a90ae8e8c536da63ae07a67f4d00dc2774ae4151030f41d26886e508f4a037c8694",
+      "fileSize": 3163042
+    }
+  },
+  "dependents": [
+    "XM0ifg8q",
+    "apt5xJoR"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

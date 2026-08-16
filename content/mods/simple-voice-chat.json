@@ -1,0 +1,25 @@
+{
+  "name": "Simple Voice Chat",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "9eGKb6K1",
+      "slug": "simple-voice-chat",
+      "versionId": "2s7zUspF",
+      "versionNumber": "neoforge-1.21.1-2.6.22",
+      "filename": "voicechat-neoforge-1.21.1-2.6.22.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/9eGKb6K1/versions/2s7zUspF/voicechat-neoforge-1.21.1-2.6.22.jar",
+      "sha1": "3b2001d8df61fe6dc03dcd5f5cd4a8f49821feb0",
+      "sha512": "309e3b18e299b2bccf9128dbb05c2603a9860f7cd68858d23f8fdb8265ea85ec7fb1655c95b87c0a9522ae1fd6380b26e4a4c31207f9c7af80870fcc6207abad",
+      "fileSize": 4918442
+    }
+  },
+  "dependents": [
+    "WWLeFuHa"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Better Advancements",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Q2OqKxDG",
+      "slug": "better-advancements",
+      "versionId": "FjTYILOi",
+      "versionNumber": "0.4.3.21",
+      "filename": "BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Q2OqKxDG/versions/FjTYILOi/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+      "sha1": "870521cfaa1a4cb6c830e2409e8b9e4cf179aff2",
+      "sha512": "b3deafd146dc3ea6e879fbc92f00de5797319a1aa620fb3b39be64c19271dab2efa07f824cda7139f8c22f2524ea413949357f5469bb6de584d1386de069c6b7",
+      "fileSize": 98641
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

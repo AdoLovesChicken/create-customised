@@ -1,0 +1,23 @@
+{
+  "name": "Create: Bits 'n' Bobs",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "T8bvmqVZ",
+      "slug": "create-bits-n-bobs",
+      "versionId": "hsWZMsKv",
+      "versionNumber": "2.2.2",
+      "filename": "bits_n_bobs-2.2.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/T8bvmqVZ/versions/hsWZMsKv/bits_n_bobs-2.2.2.jar",
+      "sha1": "cfef203a52cd1262bfaa399abed6c0e7f760e547",
+      "sha512": "e990e8719e235608080369a95e2f587f6469edbcbcdf971c41f35f7750cba17706299df316a9b9240e7f8c290b74deb03c8b55fda5bddbeecb1c2f5d8dfb2513",
+      "fileSize": 2472075
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

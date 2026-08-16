@@ -1,0 +1,23 @@
+{
+  "name": "Reese's Sodium Options",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Bh37bMuy",
+      "slug": "reeses-sodium-options",
+      "versionId": "KYgu9tXl",
+      "versionNumber": "mc1.21.1-2.2.3+neoforge",
+      "filename": "reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Bh37bMuy/versions/KYgu9tXl/reeses-sodium-options-neoforge-2.2.3%2Bmc1.21.1.jar",
+      "sha1": "904f815b1f5c48703c354d432fcbc3531022337f",
+      "sha512": "db858f48d74258ba460234219038d75eee660bb537711f0da89fd26383533d09b9ccc2e736c02c606a9dcfd7bba04a2e7febf87b89fcee45e0817e84f3827d98",
+      "fileSize": 260876
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Better Compatibility Checker",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "KJhXPbHQ",
+      "slug": "better-compatibility-checker",
+      "versionId": "NYkU1ldY",
+      "versionNumber": "21.1.8",
+      "filename": "better-compatability-checker-neoforge-21.1.8.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/KJhXPbHQ/versions/NYkU1ldY/better-compatability-checker-neoforge-21.1.8.jar",
+      "sha1": "186ba3fbacacb0ce93b9c5a5ddca28799c1577cb",
+      "sha512": "43f8817abd4c48f2cf2087332a84e9840bde232bc62f838badb241f31bbabaa68ebb0b6403875ea66338cf76c0e394f13fafdee3804a37462c04f0acc7dfcd81",
+      "fileSize": 25085
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

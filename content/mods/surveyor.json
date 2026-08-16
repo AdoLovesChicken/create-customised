@@ -1,0 +1,26 @@
+{
+  "name": "Surveyor Map Framework",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "4KjqhPc9",
+      "slug": "surveyor",
+      "versionId": "egJBsDTn",
+      "versionNumber": "1.2.4+1.21",
+      "filename": "surveyor-1.2.4+1.21.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/4KjqhPc9/versions/egJBsDTn/surveyor-1.2.4%2B1.21.jar",
+      "sha1": "77e9d3996c11eed104fe224c3ba706be1c759303",
+      "sha512": "3a91efbc596db7192792de069e814aeb3e9e1d771267ea5a5d4371b1311bef26a7f9bd02a28619026c23e4df702d99a1bbaaf732e06179dd4999dbd01aaf920c",
+      "fileSize": 602264
+    }
+  },
+  "dependents": [
+    "Y5Ve4Ui4",
+    "aR9FhY20"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}
